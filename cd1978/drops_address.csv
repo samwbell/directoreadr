@@ -1,0 +1,491 @@
+﻿,Drop_Reason,File_List,Street,Text
+0,"SCORE LESS THAN CUTOFF: Howard Bhig,76.0,PROVIDENCE",['cd1978/entry/1978_Page_70 (1)_28.png'],NORTH HOWARD AVE,Di Stefano & Co 741 Howard Bhig
+1,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_70 (1)_29.png', 'cd1978/entry/1978_Page_70 (1)_30.png']","02903),","Exrnet & Ernet One Hospital Trust Plaza (02903), Tel 331-7000"
+2,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_70 (1)_31.png'],N/A,
+3,"SCORE LESS THAN CUTOFF: Hospital Trust Tower,78.5,PROVIDENCE","['cd1978/entry/1978_Page_70 (1)_32.png', 'cd1978/entry/1978_Page_70 (1)_33.png']",HOSPITAL ST,"Haskins & Selle 1501 Hospital Trust Tower (02903), Tel 861-0740"
+4,"SCORE LESS THAN CUTOFF: Alannmin St,71.5,PROVIDENCE",['cd1978/entry/1978_Page_70 (2)_45.png'],MANNING ST,Tiwdn Ineanh A 97 Alannmin St
+5,"SCORE LESS THAN CUTOFF: th Fi,65.0,PROVIDENCE",['cd1978/entry/1978_Page_70 (3)_4.png'],4TH ST,Ernst & Ernst One Hosp Trust Plaza 17th Fi
+6,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_71 (1)_32.png'],N/A,G T SAFETY EQUIPMENT INC
+7,"SCORE LESS THAN CUTOFF: Howard Bidg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_71 (1)_48.png'],NORTH HOWARD AVE,Underwriters Adjusting Co 630 Howard Bidg
+8,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_71 (1)_86.png'],NORTH HOWARD AVE,King J Howard Inc 220 Howard Bldg
+9,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_71 (2)_10.png'],NORTH HOWARD AVE,Patterson George Co Inc Rm434 Howard Bldg
+10,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_71 (3)_4.png'],N/A,American Airlines Howard Bldg
+11,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_71 (3)_38.png'],N/A,
+12,EMPTY STREET,"['cd1978/entry/1978_Page_72 (1)_13.png', 'cd1978/entry/1978_Page_72 (1)_14.png']",,Horn Of Plenty Antiques The Weybosset St 4th Fl
+13,EMPTY STREET,['cd1978/entry/1978_Page_72 (2)_15.png'],,Eight Elmgrove Av Apts 8 Elmgrove Av
+14,EMPTY STREET,['cd1978/entry/1978_Page_72 (2)_32.png'],,Fifty Common St Apts 50 Common St
+15,"SCORE LESS THAN CUTOFF: -14 Ternay Gardens,72.0,PROVIDENCE",['cd1978/entry/1978_Page_72 (3)_68.png'],GARDEN ST,Yorktown Village Apts 1-14 Ternay Gardens
+16,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_73 (1)_58.png'],N/A,
+17,"SCORE LESS THAN CUTOFF: Ceramics Arts Inc 131 Academy Av:,49.0,PROVIDENCE",['cd1978/entry/1978_Page_73 (3)_61.png'],SERVICE RD NO. 1,Studio 89 Ceramics Arts Inc 131 Academy Av:
+18,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_73 (3)_67.png'],N/A,
+19,"SCORE LESS THAN CUTOFF: Hospital Trust Tower Providence, RI 02903,71.0,PROVIDENCE","['cd1978/entry/1978_Page_73 (3)_71.png', 'cd1978/entry/1978_Page_73 (3)_72.png']",PROVIDENCE PL,"Letts Quinn & Licht 1616 Hospital Trust Tower Providence, RI 02903 Tel 421-5650 ~"
+20,"SCORE LESS THAN CUTOFF: 272-8800 AUCTIONEERS wee.,50.5,PROVIDENCE","['cd1978/entry/1978_Page_73 (3)_73.png', 'cd1978/entry/1978_Page_73 (3)_74.png', 'cd1978/entry/1978_Page_73 (3)_75.png', 'cd1978/entry/1978_Page_73 (3)_76.png']",FALCONER ST,“4 272-8800 AUCTIONEERS  wee.
+21,EMPTY STREET,"['cd1978/entry/1978_Page_74 (3)_52.png', 'cd1978/entry/1978_Page_74 (3)_53.png', 'cd1978/entry/1978_Page_74 (3)_54.png']",3 ,"WEBBER CHEVROLET CO Tioque Av, Route 3 (Coventry, R I; 02816), Tel 821-8700"
+22,"SCORE LESS THAN CUTOFF: 1,50.0,PROVIDENCE",['cd1978/entry/1978_Page_75 (3)_65.png'],1ST ST,Lori’s Auto Seat Cover & Glass Co 661
+23,EMPTY STREET,['cd1978/entry/1978_Page_75 (3)_66.png'],,’ Plainfield St
+24,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_75 (3)_72.png'],N/A,
+25,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_75 (3)_73.png'],N/A,POLK RL & CO
+26,"SCORE LESS THAN CUTOFF: 1,50.0,PROVIDENCE","['cd1978/entry/1978_Page_75 (3)_75.png', 'cd1978/entry/1978_Page_75 (3)_76.png', 'cd1978/entry/1978_Page_75 (3)_77.png', 'cd1978/entry/1978_Page_75 (3)_78.png']",1ST ST,"431 HOWARD STREET DETROIT, MICHIGAN 48231 TELEPHONE (313) 961-9470"
+27,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_76 (1)_14.png'],N/A,POLK R L & CO
+28,"SCORE LESS THAN CUTOFF: 1,50.0,PROVIDENCE","['cd1978/entry/1978_Page_76 (1)_16.png', 'cd1978/entry/1978_Page_76 (1)_17.png', 'cd1978/entry/1978_Page_76 (1)_18.png']",1ST ST,"431 HOWARD STREET DETROIT, MICHIGAN 48231 TELEPHONE (313) 961-9470"
+29,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_76 (1)_68.png'],N/A,
+30,"SCORE LESS THAN CUTOFF: ELM HILL PIKE PO BOX 17307 NASHVILLE, TENNESSEE 37217,49.5,PROVIDENCE","['cd1978/entry/1978_Page_76 (2)_58.png', 'cd1978/entry/1978_Page_76 (2)_59.png', 'cd1978/entry/1978_Page_76 (2)_60.png', 'cd1978/entry/1978_Page_76 (2)_61.png', 'cd1978/entry/1978_Page_76 (2)_62.png']",OLD SIMMONSVILLE RD,"POLK R L & CO 2001 ELM HILL PIKE PO BOX 17307 NASHVILLE, TENNESSEE 37217 TELEPHONE (615) 889-3350"
+31,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_76 (2)_80.png'],N/A,"Av, East Providence, Tel 434-6100,"
+32,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_76 (2)_81.png'],N/A,"1400 Hartford Av, Johnston, Tel 861-"
+33,"SCORE LESS THAN CUTOFF: Post Rd, North Kingston,,76.5,PROVIDENCE",['cd1978/entry/1978_Page_76 (3)_3.png'],KINGSTON AVE,"1677, 6633 Post Rd, North Kingston,"
+34,"SCORE LESS THAN CUTOFF: Main St, Pawtucket,,69.0,PROVIDENCE",['cd1978/entry/1978_Page_76 (3)_4.png'],PAWTUXET AV,"Tel 884-1388, 200 Main St, Pawtucket,"
+35,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_76 (3)_12.png'],N/A,"St, Westerly, Tel 596-0168 (See Index"
+36,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_76 (3)_13.png'],N/A,To Advertisers)
+37,EMPTY STREET,"['cd1978/entry/1978_Page_76 (3)_32.png', 'cd1978/entry/1978_Page_76 (3)_33.png', 'cd1978/entry/1978_Page_76 (3)_34.png']",,215 ATWELLS AV  582 ELMWOOD AV
+38,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_76 (3)_51.png'],N/A,RHODE ISLAND
+39,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_76 (3)_54.png', 'cd1978/entry/1978_Page_76 (3)_55.png', 'cd1978/entry/1978_Page_76 (3)_56.png', 'cd1978/entry/1978_Page_76 (3)_57.png', 'cd1978/entry/1978_Page_76 (3)_58.png', 'cd1978/entry/1978_Page_76 (3)_59.png']",02903),1 HOSPITAL TRUST PLAZA (02903) TELEPHONE 278-8000 10 DORRANCE STREET (02903) 238 THAYER STREET (02906) 1 OLNEYVILLE SQUARE (02908) 434 SMITH STREET (02908)
+40,ERROR IN STREET MATCHING,['cd1978/entry/1978_Page_76 (3)_60.png'],02903),244 WEYBOSSET STREET (02903)
+41,ERROR IN STREET MATCHING,['cd1978/entry/1978_Page_76 (3)_61.png'],02904),501 N MAIN STREET (02904)
+42,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_76 (3)_72.png'],N/A,"Av, East Providence, Tel 434-6100,"
+43,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_76 (3)_73.png'],N/A,"1400 Hartford Av, Johnston, Tel 861-"
+44,"SCORE LESS THAN CUTOFF: Post Rd, North Kingston,,76.5,PROVIDENCE",['cd1978/entry/1978_Page_76 (3)_74.png'],KINGSTON AVE,"1677, 6633 Post Rd, North Kingston,"
+45,"SCORE LESS THAN CUTOFF: Main St, Pawtucket,,69.0,PROVIDENCE",['cd1978/entry/1978_Page_76 (3)_75.png'],PAWTUXET AV,"Tel 884-1388, 200 Main St, Pawtucket,"
+46,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_76 (3)_77.png'],N/A,"Smithfield, Tel 231-1400, 1300"
+47,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_76 (3)_78.png'],N/A,"Warwick Av, Warwick, Tel 463-8700,"
+48,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_76 (3)_79.png'],N/A,"T F Green State Airport, Warwick,"
+49,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_76 (3)_81.png'],N/A,"Warwick, Tel 738-7700, 2 High St,"
+50,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_76 (3)_82.png'],N/A,"Westerly, Tel 596-7741, 150 Granite"
+51,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_76 (3)_83.png'],N/A,"St, Westerly, Tel 596-0168 (See Index"
+52,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_76 (3)_84.png'],N/A,To Advertisers)
+53,ERROR IN STREET MATCHING,['cd1978/entry/1978_Page_77 (1)_32.png'],"02909),","Plainfield St (02909), Tel 944-6800,"
+54,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (1)_35.png'],N/A,COLUMBUS NATIONAL
+55,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_77 (1)_39.png', 'cd1978/entry/1978_Page_77 (1)_40.png', 'cd1978/entry/1978_Page_77 (1)_41.png', 'cd1978/entry/1978_Page_77 (1)_42.png', 'cd1978/entry/1978_Page_77 (1)_43.png']",02903),(02903) TELEPHONE 751-9200 591 CHARLES ST (02904) TELEPHONE 861-0250
+56,EMPTY STREET,"['cd1978/entry/1978_Page_77 (1)_44.png', 'cd1978/entry/1978_Page_77 (1)_45.png']",,131 ELMGROVE AV (02906)
+57,"SCORE LESS THAN CUTOFF: -5320,29.0,PROVIDENCE",['cd1978/entry/1978_Page_77 (1)_46.png'],I 95,TELEPHONE 351-5320
+58,EMPTY STREET,"['cd1978/entry/1978_Page_77 (1)_47.png', 'cd1978/entry/1978_Page_77 (1)_48.png']",,280 ATWELLS AV (02903)
+59,"SCORE LESS THAN CUTOFF: -3244,29.0,PROVIDENCE",['cd1978/entry/1978_Page_77 (1)_49.png'],2ND ST,TELEPHONE 421-3244
+60,EMPTY STREET,"['cd1978/entry/1978_Page_77 (1)_50.png', 'cd1978/entry/1978_Page_77 (1)_51.png']",,1925 MINERAL SPRING AV NORTH PROVIDENCE (02911)
+61,"SCORE LESS THAN CUTOFF: -1000,50.0,PROVIDENCE","['cd1978/entry/1978_Page_77 (1)_52.png', 'cd1978/entry/1978_Page_77 (1)_53.png']",10TH ST,TELEPHONE 353-1000 (See Index To Advertisers)
+62,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (2)_3.png'],N/A,OLD COLONY CO-OPERATIVE BANK
+63,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (2)_4.png'],N/A,"58 Weybosset Street, Tel 831-7900, 270"
+64,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (2)_5.png'],N/A,"Westminster Mall, Tel 831-7900 19"
+65,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (2)_6.png'],N/A,"South Angell Street, Tel 221-2243 175"
+66,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (2)_7.png'],N/A,"Hillside Road, Cranston, Tel 944-3100"
+67,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (2)_8.png'],N/A,"60 Mendon Road, Cumberland, Tel"
+68,"SCORE LESS THAN CUTOFF: Main Street, East Greenwich,,75.5,PROVIDENCE","['cd1978/entry/1978_Page_77 (2)_9.png', 'cd1978/entry/1978_Page_77 (2)_10.png', 'cd1978/entry/1978_Page_77 (2)_11.png']",GREENWICH ST,"726-1600, 821 Main Street, East Greenwich, Tel 884-7900, Aquidneck Shopping Center, Middletown, Tel"
+69,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (2)_13.png'],N/A,"Newport, Tel 847-4410, 192 Bellevue"
+70,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (2)_14.png'],N/A,"Avenue, Newport, Tel 849-6444 199"
+71,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (2)_15.png'],N/A,"Connell Highway, Newport, Tel 849-"
+72,"SCORE LESS THAN CUTOFF: Waterman Avenue, North,77.5,PROVIDENCE",['cd1978/entry/1978_Page_77 (2)_16.png'],WATERMAN ST,"5545. 11 Waterman Avenue, North"
+73,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (2)_17.png'],N/A,"Providence, Tel 231-7900, 171 Main"
+74,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (2)_18.png'],N/A,"Street, Pawtucket, Tel 722-7300, 335"
+75,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (2)_19.png'],N/A,"Main Street, Pawtucket, Tel 724-7900,"
+76,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (2)_20.png'],N/A,"3040 East Main Road, Portemouth,"
+77,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (2)_22.png'],N/A,"Rumford, Tel 438-4844, Dale Carlia"
+78,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (2)_23.png'],N/A,"Corner. Wakefield, Tel 783-3392, 1600"
+79,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (2)_24.png'],N/A,"Warwick Avenue, Warwick, Tel 739-"
+80,"SCORE LESS THAN CUTOFF: Midland Mall, Warwick, Tel,58.0,PROVIDENCE",['cd1978/entry/1978_Page_77 (2)_25.png'],RHODE ISLAND COLL,"1600, 140 Midland Mall, Warwick, Tel"
+81,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (2)_27.png'],N/A,"Warwick, Tel 821-7900, 1675 Diamond"
+82,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (2)_28.png'],N/A,"Hill Road, Woonsocket, Tel 766-8500,"
+83,FAILED TO PARSE AN ADDRESS,"['cd1978/entry/1978_Page_77 (2)_29.png', 'cd1978/entry/1978_Page_77 (2)_30.png']",N/A,"141 Main Street, Woonsocket, Tel 769-7900 (See Index To Advertisers)"
+84,FAILED TO PARSE AN ADDRESS,"['cd1978/entry/1978_Page_77 (2)_57.png', 'cd1978/entry/1978_Page_77 (2)_58.png', 'cd1978/entry/1978_Page_77 (2)_59.png', 'cd1978/entry/1978_Page_77 (2)_60.png', 'cd1978/entry/1978_Page_77 (2)_61.png', 'cd1978/entry/1978_Page_77 (2)_62.png', 'cd1978/entry/1978_Page_77 (2)_63.png', 'cd1978/entry/1978_Page_77 (2)_64.png', 'cd1978/entry/1978_Page_77 (2)_65.png']",N/A,PEOPLE'S BANK Main Office: Kennedy
+85,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (2)_66.png'],N/A,"1400 Hartford Av, Johnston, Tel 861-"
+86,"SCORE LESS THAN CUTOFF: Post Rd, North Kingston,,76.5,PROVIDENCE",['cd1978/entry/1978_Page_77 (2)_67.png'],KINGSTON AVE,"1677, 6633 Post Rd, North Kingston,"
+87,"SCORE LESS THAN CUTOFF: Main St, Pawtucket,,69.0,PROVIDENCE",['cd1978/entry/1978_Page_77 (2)_68.png'],PAWTUXET AV,"Tel 884-1388, 200 Main St, Pawtucket,"
+88,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (2)_70.png'],N/A,"Smithfield, Tel 231-1400, 1300"
+89,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (2)_71.png'],N/A,"Warwick Av, Warwick, Tel 463-8700,"
+90,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (2)_72.png'],N/A,"T F Green State Airport, Warwick,"
+91,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (2)_74.png'],N/A,"Warwick, Tel 738-7700, 2 High St,"
+92,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (2)_75.png'],N/A,"Westerly, Tel 596-7741, 150 Granite"
+93,FAILED TO PARSE AN ADDRESS,"['cd1978/entry/1978_Page_77 (2)_76.png', 'cd1978/entry/1978_Page_77 (2)_77.png']",N/A,"St, Westerly, Tel 596-0168 (See Index To Advertisers)"
+94,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE","['cd1978/entry/1978_Page_77 (2)_79.png', 'cd1978/entry/1978_Page_77 (2)_80.png']",NORTH HOWARD AVE,People’s Savings Bank & Trust Co (Mortgage Dept) 240 Howard Bldg
+95,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (2)_86.png'],N/A,RHODE ISLAND
+96,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_77 (2)_90.png', 'cd1978/entry/1978_Page_77 (2)_91.png', 'cd1978/entry/1978_Page_77 (2)_92.png']",02903),(02903) TELEPHONE 278-8000 10 DORRANCE STREET (02903)
+97,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (3)_1.png'],N/A,BDAINRD AINY £EUOS. Vues casveemw
+98,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (3)_3.png'],N/A,RHODE ISLAND HOSPITAL TRUST
+99,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (3)_4.png'],N/A,NATIONAL BANK—CONTD
+100,ERROR IN STREET MATCHING,['cd1978/entry/1978_Page_77 (3)_5.png'],02903),244 WEYBOSSET STREET (02903)
+101,EMPTY STREET,['cd1978/entry/1978_Page_77 (3)_6.png'],,238 THAYER ST (02906)
+102,ERROR IN STREET MATCHING,['cd1978/entry/1978_Page_77 (3)_7.png'],02909),1 OLNEYVILLE SQ (02909)
+103,"SCORE LESS THAN CUTOFF: -8070,29.0,PROVIDENCE",['cd1978/entry/1978_Page_77 (3)_8.png'],7TH ST,TELEPHONE 278-8070
+104,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (3)_12.png'],N/A,RHODE ISLAND HOSPITAL
+105,ERROR IN STREET MATCHING,['cd1978/entry/1978_Page_77 (3)_14.png'],02902),593 EDDY STREET (02902)
+106,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_77 (3)_14.png'],N/A,PROVIDENCE COLLEGE OFFICE
+107,ERROR IN STREET MATCHING,['cd1978/entry/1978_Page_77 (3)_15.png'],02918),SLAVIN CENTER (02918)
+108,FAILED TO PARSE AN ADDRESS,"['cd1978/entry/1978_Page_77 (3)_16.png', 'cd1978/entry/1978_Page_77 (3)_17.png']",N/A,(See Index To Advertisers) BAR FIXTURES AND
+109,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_78 (1)_88.png'],N/A,SERVICE
+110,"SCORE LESS THAN CUTOFF: Haircutting 220 Waterman St,58.0,PROVIDENCE",['cd1978/entry/1978_Page_79 (1)_71.png'],WHITING ST,Salon 220 Haircutting 220 Waterman St
+111,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_79 (3)_3.png'],N/A,
+112,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_79 (3)_21.png'],N/A,
+113,"SCORE LESS THAN CUTOFF: Pomfret St,71.5,PROVIDENCE",['cd1978/entry/1978_Page_79 (3)_67.png'],SOMERSET ST,Abraams Philip Inc 1 Pomfret St  ~ he
+114,"SCORE LESS THAN CUTOFF: th FI,65.0,PROVIDENCE","['cd1978/entry/1978_Page_80 (1)_55.png', 'cd1978/entry/1978_Page_80 (1)_56.png']",4TH ST,Hutton E F Company Inc One Hosp Trust Plaza 24th FI
+115,"SCORE LESS THAN CUTOFF: th FI,65.0,PROVIDENCE","['cd1978/entry/1978_Page_80 (1)_60.png', 'cd1978/entry/1978_Page_80 (1)_61.png']",4TH ST,Merrill Lynch Pierce Fenner & Smith Inc One Hosp Trust Plaza 14th FI
+116,"SCORE LESS THAN CUTOFF: th FI,65.0,PROVIDENCE","['cd1978/entry/1978_Page_80 (1)_65.png', 'cd1978/entry/1978_Page_80 (1)_66.png']",4TH ST,Paine Webber Jackson & Curtis Inc One Hosp Trust Plaza 15th FI
+117,"SCORE LESS THAN CUTOFF: Howard Bidg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_80 (1)_69.png'],NORTH HOWARD AVE,Reiser Milton P Co Inc 320 Howard Bidg
+118,"SCORE LESS THAN CUTOFF: th Fi,65.0,PROVIDENCE","['cd1978/entry/1978_Page_80 (1)_71.png', 'cd1978/entry/1978_Page_80 (1)_72.png']",4TH ST,White Weld & Co Inc One Hosp Trust Plaza 18th Fi
+119,"SCORE LESS THAN CUTOFF: One Hospital Trust Plaza,75.0,PROVIDENCE","['cd1978/entry/1978_Page_80 (3)_79.png', 'cd1978/entry/1978_Page_80 (3)_80.png', 'cd1978/entry/1978_Page_80 (3)_81.png', 'cd1978/entry/1978_Page_80 (3)_82.png']",HOSPITAL ST,HOSPITAL TRUST TOWER-HOSPITAL TRUST BUILDING Rental Office Suite 810 One Hospital Trust Plaza (02903) Tel 278-8193
+120,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_81 (1)_2.png'],N/A,
+121,FAILED TO PARSE AN ADDRESS,"['cd1978/entry/1978_Page_81 (1)_30.png', 'cd1978/entry/1978_Page_81 (1)_31.png']",N/A,New England Telephone Co Bldg 234 Washington St
+122,FAILED TO PARSE AN ADDRESS,"['cd1978/entry/1978_Page_81 (1)_63.png', 'cd1978/entry/1978_Page_81 (1)_64.png']",N/A,Rhode Island Hospital Trust Nat] Bank Building One Hosp Trust Plaza
+123,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_81 (2)_2.png'],N/A,
+124,"SCORE LESS THAN CUTOFF: Braemore Way,71.5,PROVIDENCE","['cd1978/entry/1978_Page_81 (2)_71.png', 'cd1978/entry/1978_Page_81 (2)_72.png', 'cd1978/entry/1978_Page_81 (2)_73.png', 'cd1978/entry/1978_Page_81 (2)_74.png']",BELMORE RD,"A B DICK COMPANY 1 Braemore Way (Warwick; 02887), Sales Tel 738-8400, Service Tel 738-8450 (See Index To Advertisers)"
+125,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_81 (3)_1.png'],N/A,
+126,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_81 (3)_25.png'],N/A,
+127,"SCORE LESS THAN CUTOFF: Pomfret St,71.5,PROVIDENCE",['cd1978/entry/1978_Page_81 (3)_72.png'],SOMERSET ST,Stiller Carpet Co 9 Pomfret St
+128,"SCORE LESS THAN CUTOFF: Charies St, Bidg 6,68.0,PROVIDENCE","['cd1978/entry/1978_Page_82 (1)_31.png', 'cd1978/entry/1978_Page_82 (1)_32.png', 'cd1978/entry/1978_Page_82 (1)_33.png']",CHARLES ST,"CASTING COMPANY 387 Charies St, Bidg 6 (02904), Tel (401) 331-0669"
+129,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_82 (2)_6.png'],N/A,CATHOLIC
+130,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_82 (2)_8.png', 'cd1978/entry/1978_Page_82 (2)_9.png', 'cd1978/entry/1978_Page_82 (2)_10.png']",62903),CATHEDRAL SQUARE (62903)
+131,EMPTY STREET,"['cd1978/entry/1978_Page_82 (2)_13.png', 'cd1978/entry/1978_Page_82 (2)_14.png', 'cd1978/entry/1978_Page_82 (2)_15.png']",,"HIGHLAND MEMORIAL PARK Rhode Island Av ( 02919), Tel 231- 1440 (See Index To Advertisers)"
+132,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_82 (2)_27.png', 'cd1978/entry/1978_Page_82 (2)_28.png', 'cd1978/entry/1978_Page_82 (2)_29.png']","02906),","SWAN POINT  (02906), Tel 272-1314 (See Index To"
+133,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_82 (2)_32.png'],N/A,a
+134,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_82 (2)_60.png'],NORTH HOWARD AVE,Superfan Of America Inc 842 Howard Bldg
+135,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_82 (3)_8.png'],NORTH HOWARD AVE,Cain & Divver Inc 428 Howard Bldg
+136,EMPTY STREET,['cd1978/entry/1978_Page_82 (3)_12.png'],,Lenox Chemical Co Printery St
+137,EMPTY STREET,"['cd1978/entry/1978_Page_83 (2)_47.png', 'cd1978/entry/1978_Page_83 (2)_48.png', 'cd1978/entry/1978_Page_83 (2)_49.png']",,"ST PIUS ROMAN CATHOLIC CHURCH Elmhurst Av And Eaton St (02906), Tel 751-4871"
+138,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_83 (2)_69.png'],N/A,* St
+139,"SCORE LESS THAN CUTOFF: WASHINGTON STREET BOSTON, MASS 02111,73.0,PROVIDENCE","['cd1978/entry/1978_Page_83 (3)_3.png', 'cd1978/entry/1978_Page_83 (3)_4.png', 'cd1978/entry/1978_Page_83 (3)_5.png', 'cd1978/entry/1978_Page_83 (3)_6.png']",WASHINGTON PL,"POLK RL & CO 600 WASHINGTON STREET BOSTON, MASS 02111 TELEPHONE (617) 426-6309"
+140,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_84 (1)_64.png'],N/A,
+141,"SCORE LESS THAN CUTOFF: MC heetnat Be Apt 808,54.0,PROVIDENCE","['cd1978/entry/1978_Page_84 (1)_86.png', 'cd1978/entry/1978_Page_84 (1)_87.png']",CHESTNUT ST,Dennis Rey 1 MC heetnat Be Apt 808
+142,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_84 (3)_13.png'],N/A,Rhode Island Hearing Center Corliss Park
+143,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_84 (3)_46.png'],N/A,2100 (See Index To Advertisers)
+144,EMPTY STREET,['cd1978/entry/1978_Page_85 (2)_21.png'],,Brown University Boat House River Dr
+145,EMPTY STREET,['cd1978/entry/1978_Page_85 (2)_22.png'],,Brown University Yacht Club River Dr
+146,EMPTY STREET,['cd1978/entry/1978_Page_85 (2)_72.png'],,Narragansett Yacht Club River Dr
+147,"SCORE LESS THAN CUTOFF: Greenville Av, Johnston, R I,78.0,PROVIDENCE","['cd1978/entry/1978_Page_85 (3)_32.png', 'cd1978/entry/1978_Page_85 (3)_33.png', 'cd1978/entry/1978_Page_85 (3)_34.png', 'cd1978/entry/1978_Page_85 (3)_35.png']",GREENVILLE AVE,"MILLER CHAS CO 484 Greenville Av, Johnston, R I (02919), Tels 231-0680 And 781-0600 (See Index To Advertisers)"
+148,"SCORE LESS THAN CUTOFF: Burgess St,72.5,PROVIDENCE",['cd1978/entry/1978_Page_86 (1)_21.png'],BURNS ST,Hope John Settlement House 7 Burgess St
+149,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_86 (1)_32.png'],N/A,Nixon Wallace R State Office Bldg
+150,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_86 (1)_44.png'],N/A,CONFECTIONERY—RETAIL
+151,FAILED TO PARSE AN ADDRESS,"['cd1978/entry/1978_Page_86 (2)_57.png', 'cd1978/entry/1978_Page_86 (2)_58.png']",N/A,Rhode Island Hosp Trust Co Nat] Bank One Hosp Trust Plaza lst Fi
+152,"SCORE LESS THAN CUTOFF: Greenville Av, Johnston, R I,78.0,PROVIDENCE","['cd1978/entry/1978_Page_88 (1)_51.png', 'cd1978/entry/1978_Page_88 (1)_52.png', 'cd1978/entry/1978_Page_88 (1)_53.png']",GREENVILLE AVE,"’ MILLER CHAS CO 484 Greenville Av, Johnston, R I (02919), Tels 231-0680 And 781-0600 (See Index To"
+153,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_88 (1)_85.png'],N/A,CONTRACTORS—PAVING
+154,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_88 (1)_87.png'],N/A,ae
+155,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_88 (1)_88.png'],N/A,ie.
+156,EMPTY STREET,['cd1978/entry/1978_Page_88 (3)_69.png'],,Tri State Equipment Corp Fields Point Dr
+157,"SCORE LESS THAN CUTOFF: Edendale Ave,79.0,PROVIDENCE",['cd1978/entry/1978_Page_89 (1)_29.png'],VERNDALE AVE,Saint Thomas Convent 41 Edendale Av
+158,"SCORE LESS THAN CUTOFF: Catamore Blvd,66.0,PROVIDENCE","['cd1978/entry/1978_Page_89 (2)_8.png', 'cd1978/entry/1978_Page_89 (2)_9.png']",SYCAMORE ST,"JEWELERS BOARD OF TRADE INC 70 Catamore Blvd (02914), Tel 438-0750"
+159,"SCORE LESS THAN CUTOFF: Uspo,67.0,PROVIDENCE","['cd1978/entry/1978_Page_89 (2)_33.png', 'cd1978/entry/1978_Page_89 (2)_34.png']",RUSSO ST,Providence Postal Employees Credit Union 105 Federal Bldg Uspo
+160,"SCORE LESS THAN CUTOFF: Randal! Sq Suite 410,77.0,PROVIDENCE","['cd1978/entry/1978_Page_89 (3)_61.png', 'cd1978/entry/1978_Page_89 (3)_62.png']",RANDALL SQ,Computerized Diagnostic Procedures Inc 1 Randal! Sq Suite 410
+161,"SCORE LESS THAN CUTOFF: Kennedy Plaza Suite 516 ww,79.5,PROVIDENCE","['cd1978/entry/1978_Page_89 (3)_63.png', 'cd1978/entry/1978_Page_89 (3)_64.png']",KENNEDY PLZ,Data Processing Services Inc 36 Kennedy Plaza Suite 516  ww
+162,"SCORE LESS THAN CUTOFF: Deli Inc 45 Eddy St,70.5,PROVIDENCE",['cd1978/entry/1978_Page_90 (1)_21.png'],DELHI ST,Club 45 Deli Inc 45 Eddy St
+163,"SCORE LESS THAN CUTOFF: Randal) Sq Suite 409,77.0,PROVIDENCE","['cd1978/entry/1978_Page_90 (2)_70.png', 'cd1978/entry/1978_Page_90 (2)_71.png']",RANDALL SQ,Manera John F D D S Inc 1 Randal) Sq Suite 409
+164,"SCORE LESS THAN CUTOFF: 2d St,50.0,PROVIDENCE",['cd1978/entry/1978_Page_90 (3)_69.png'],DYER ST,Baldwin Cathy B 39 2d St
+165,EMPTY STREET,['cd1978/entry/1978_Page_90 (3)_81.png'],,Ewen Wm H dr 170 Westminster St Rm 506
+166,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_91 (1)_14.png'],NORTH HOWARD AVE,Pinkerton’s Inc 330 Howard Bldg
+167,"SCORE LESS THAN CUTOFF: Tippecanoe St,67.5,PROVIDENCE",['cd1978/entry/1978_Page_91 (1)_30.png'],TAPPAN ST,Collins R A Co 12 Tippecanoe St
+168,"SCORE LESS THAN CUTOFF: WASHINGTON STREET BOSTON, MASS 02111,73.0,PROVIDENCE","['cd1978/entry/1978_Page_91 (1)_42.png', 'cd1978/entry/1978_Page_91 (1)_43.png', 'cd1978/entry/1978_Page_91 (1)_44.png', 'cd1978/entry/1978_Page_91 (1)_45.png']",WASHINGTON PL,"POLK R L & CO 600 WASHINGTON STREET BOSTON, MASS 02111 TELEPHONE (617) 426-6309"
+169,"SCORE LESS THAN CUTOFF: Braemore Way ',71.5,PROVIDENCE","['cd1978/entry/1978_Page_91 (3)_40.png', 'cd1978/entry/1978_Page_91 (3)_41.png', 'cd1978/entry/1978_Page_91 (3)_42.png', 'cd1978/entry/1978_Page_91 (3)_43.png']",BELMORE RD,"A B DICK COMPANY 1 Braemore Way ' (Warwick; 02887), Sales Tel 738-8400, Service Tel 738-8450 (See Index To Advertisers)"
+170,"SCORE LESS THAN CUTOFF: Weyboeset Hill 7th Fl,71.0,PROVIDENCE",['cd1978/entry/1978_Page_91 (3)_49.png'],WEYBOSSET ST,Xerox Corporation 1 Weyboeset Hill 7th Fl
+171,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_92 (1).chop_43.png'],N/A,AND SUPPLIES—
+172,"SCORE LESS THAN CUTOFF: Elmwood Av Electronic Switch Corp 150 Pine St,48.5,PROVIDENCE","['cd1978/entry/1978_Page_92 (1).chop_72.png', 'cd1978/entry/1978_Page_92 (1).chop_73.png', 'cd1978/entry/1978_Page_92 (1).chop_74.png', 'cd1978/entry/1978_Page_92 (1).chop_75.png', 'cd1978/entry/1978_Page_92 (1).chop_76.png', 'cd1978/entry/1978_Page_92 (1).chop_77.png', 'cd1978/entry/1978_Page_92 (1).chop_78.png', 'cd1978/entry/1978_Page_92 (1).chop_79.png']",ELTON ST,Av Electronic Service Co 376 Elmwood Av Electronic Switch Corp 150 Pine St Federal Electronics Inc 387 Charles St Hurd Electronics 288a Thayer St Lafayette Radio Electronics Of Providence Inc * 1224 N Main St ‘B & R Electronics 25 Kenyon St
+173,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_92 (1).chop_80.png'],N/A,
+174,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_92 (2).chop_25.png'],NORTH HOWARD AVE,Career Girls 742 Howard Bldg
+175,"SCORE LESS THAN CUTOFF: 3,50.0,PROVIDENCE",['cd1978/entry/1978_Page_92 (2).chop_28.png'],3RD ST,Fox Schmidt Associates 10 Howard Bldg 313
+176,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_92 (2).chop_46.png'],NORTH HOWARD AVE,Majewski Of Rhode Island 712 Howard Bldg
+177,"SCORE LESS THAN CUTOFF: Howard Bidg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_92 (2).chop_51.png'],NORTH HOWARD AVE,Medical Personnel Pool 317 Howard Bidg
+178,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_92 (2).chop_52.png'],NORTH HOWARD AVE,Office Personnel Pool Inc 720 Howard Bldg
+179,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE","['cd1978/entry/1978_Page_92 (2).chop_59.png', 'cd1978/entry/1978_Page_92 (2).chop_60.png']",NORTH HOWARD AVE,Rita Richard P Personnel Services Inc 515 Howard Bldg
+180,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_92 (2).chop_66.png'],NORTH HOWARD AVE,Xavier Associates 617 Howard Bldg
+181,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_92 (3).chop_33.png'],NORTH HOWARD AVE,Marcello & Co 700 Howard Bldg
+182,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_93 (1)_44.png'],N/A,RHODE ISLAND
+183,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_93 (1)_47.png', 'cd1978/entry/1978_Page_93 (1)_48.png', 'cd1978/entry/1978_Page_93 (1)_49.png', 'cd1978/entry/1978_Page_93 (1)_50.png', 'cd1978/entry/1978_Page_93 (1)_51.png', 'cd1978/entry/1978_Page_93 (1)_52.png']",02903),1 HOSPITAL TRUST PLAZA (02903) TELEPHONE 278-8000 10 DORRANCE ST (02903) 244 WEYBOSSET ST (02903) 238 THAYER ST (02906) 1 OLNEYVILLE SQ (02909)
+184,EMPTY STREET,['cd1978/entry/1978_Page_93 (1)_53.png'],,434 SMITH ST (02908)
+185,EMPTY STREET,['cd1978/entry/1978_Page_93 (1)_54.png'],,501 NORTH MAIN ST (02904)
+186,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_93 (1)_55.png'],N/A,RHODE ISLAND HOSPITAL
+187,EMPTY STREET,['cd1978/entry/1978_Page_93 (1)_57.png'],,593 EDDY ST (02902)
+188,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_93 (1)_58.png'],N/A,PROVIDENCE COLLEGE OFFICE
+189,ERROR IN STREET MATCHING,['cd1978/entry/1978_Page_93 (1)_59.png'],02918),SLAVIN CENTER (02918)
+190,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_93 (1)_60.png'],N/A,(See Index To Advertisters)
+191,"SCORE LESS THAN CUTOFF: b Pomfret St,68.5,PROVIDENCE",['cd1978/entry/1978_Page_93 (3)_25.png'],SOMERSET ST,Allyn’s Products Inc 1b Pomfret St
+192,FAILED TO PARSE AN ADDRESS,"['cd1978/entry/1978_Page_94 (1)_3.png', 'cd1978/entry/1978_Page_94 (1)_4.png']",N/A,BANK OF RHODE ISLAND
+193,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_94 (1)_5.png', 'cd1978/entry/1978_Page_94 (1)_6.png']",02903),ONE TURKS HEAD PLACE (02903)
+194,"SCORE LESS THAN CUTOFF: -9200,29.0,PROVIDENCE",['cd1978/entry/1978_Page_94 (1)_7.png'],I 95,TELEPHONE 751-9200
+195,EMPTY STREET,"['cd1978/entry/1978_Page_94 (1)_8.png', 'cd1978/entry/1978_Page_94 (1)_9.png', 'cd1978/entry/1978_Page_94 (1)_10.png']",,591 CHARLES ST (02904) TELEPHONE 861-0250
+196,EMPTY STREET,"['cd1978/entry/1978_Page_94 (1)_11.png', 'cd1978/entry/1978_Page_94 (1)_12.png']",,131 ELMGROVE AV (02906)
+197,"SCORE LESS THAN CUTOFF: -5320,29.0,PROVIDENCE",['cd1978/entry/1978_Page_94 (1)_13.png'],I 95,TELEPHONE 351-5320
+198,EMPTY STREET,"['cd1978/entry/1978_Page_94 (1)_14.png', 'cd1978/entry/1978_Page_94 (1)_15.png']",,260 ATWELLS AV (02803)
+199,"SCORE LESS THAN CUTOFF: -3244,29.0,PROVIDENCE",['cd1978/entry/1978_Page_94 (1)_16.png'],2ND ST,TELEPHONE 421-3244
+200,EMPTY STREET,"['cd1978/entry/1978_Page_94 (1)_17.png', 'cd1978/entry/1978_Page_94 (1)_18.png']",,1925 MINERAL SPRING AV NORTH PROVIDENCE (02911)
+201,"SCORE LESS THAN CUTOFF: -1000,50.0,PROVIDENCE","['cd1978/entry/1978_Page_94 (1)_19.png', 'cd1978/entry/1978_Page_94 (1)_20.png']",10TH ST,TELEPHONE 353-1000 (See Index To Advertisers)
+202,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_94 (1)_23.png'],N/A,RHODE ISLAND
+203,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_94 (1)_26.png', 'cd1978/entry/1978_Page_94 (1)_27.png', 'cd1978/entry/1978_Page_94 (1)_28.png', 'cd1978/entry/1978_Page_94 (1)_29.png', 'cd1978/entry/1978_Page_94 (1)_30.png', 'cd1978/entry/1978_Page_94 (1)_31.png']",02903),1 HOSPITAL TRUST PLAZA (02903) TELEPHONE 521-6700 10 DORRANCE STREET (02903) 244 WEYBOSSET STREET (02903) 288 THAYER STREET (02906) 1 OLNEYVILLE SQUARE (02909)
+204,ERROR IN STREET MATCHING,['cd1978/entry/1978_Page_94 (1)_32.png'],02908),434 SMITH STREET (02908)
+205,ERROR IN STREET MATCHING,['cd1978/entry/1978_Page_94 (1)_33.png'],02904),501 N MAIN STREET (02904)
+206,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_94 (1)_56.png'],N/A,Alpha Delta Phi Wriston Quadrangle
+207,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_94 (1)_57.png'],N/A,Alpha Pi Lambda Phi Wriston Quadrangle
+208,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_94 (1)_58.png'],N/A,Beta Theta Pi Wriston Quadrangle
+209,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_94 (1)_59.png'],N/A,Casement House Wriston Quadrangle
+210,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_94 (1)_60.png'],N/A,Delta Phi Omega Wriston Quadrangle
+211,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_94 (1)_61.png'],N/A,Deita Tau Delta Wriston Quadrangle
+212,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_94 (1)_62.png'],N/A,Delta Upsilon Wriston Quadrangle
+213,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_94 (1)_63.png'],N/A,Lambda Chi Alpha Wriston Quadrangle
+214,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_94 (1)_64.png'],N/A,Lambda Sigma Nu Wriston Quadrangle
+215,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_94 (1)_64.png'],N/A,Phi Delta Beta Wriston Quadrangle
+216,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_94 (1)_65.png'],N/A,Phi Kappa Psi Wriston Quadrangle
+217,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_94 (1)_65.png'],N/A,Zeta Psi Wriston Quadrangle
+218,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_94 (1)_71.png'],N/A,
+219,"SCORE LESS THAN CUTOFF: Tag Drive,71.5,PROVIDENCE","['cd1978/entry/1978_Page_94 (2)_56.png', 'cd1978/entry/1978_Page_94 (2)_57.png', 'cd1978/entry/1978_Page_94 (2)_58.png']",WEST RIVER ST,"BRENNAN OIL & HEATING CO INC 9 Tag Drive (N Providence; 02911), Tel 353-4210 (See Index To Advertisers)"
+220,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_94 (2)_67.png'],N/A,DE BLOIS OIL CO
+221,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_94 (2)_70.png', 'cd1978/entry/1978_Page_94 (2)_71.png']",02860),(PAWTUCKET 02860) TELEPHONE 722-8000
+222,"SCORE LESS THAN CUTOFF: Charies Field St,77.5,PROVIDENCE",['cd1978/entry/1978_Page_95 (2)_10.png'],CHARLES ST,Ferrara Salvatore 63 Charies Field St
+223,EMPTY STREET,['cd1978/entry/1978_Page_95 (3)_21.png'],,Petrolane Transport Fields Point Dr
+224,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_95 (3)_26.png'],N/A,PROVIDENCE GAS
+225,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_95 (3)_28.png', 'cd1978/entry/1978_Page_95 (3)_29.png', 'cd1978/entry/1978_Page_95 (3)_30.png']",02903),100 WEYBOSSET STREET (PROVIDENCE 02903) TELEPHONE 831-8800
+226,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_95 (3)_35.png'],N/A,BILLING OR CREDIT
+227,"SCORE LESS THAN CUTOFF: -8800 ALL OTHER,61.5,PROVIDENCE",['cd1978/entry/1978_Page_95 (3)_37.png'],MATHER AV,TELEPHONE 831-8800 ALL OTHER
+228,"SCORE LESS THAN CUTOFF: -5040,29.0,PROVIDENCE",['cd1978/entry/1978_Page_95 (3)_39.png'],I 95,TELEPHONE 272-5040
+229,FAILED TO PARSE AN ADDRESS,"['cd1978/entry/1978_Page_96 (2)_53.png', 'cd1978/entry/1978_Page_96 (2)_54.png']",N/A,Esther's Cards & Gifts One Hosp Trust Plaza Ist Fl
+230,"SCORE LESS THAN CUTOFF: Cabot St,77.5,PROVIDENCE",['cd1978/entry/1978_Page_97 (2)_68.png'],TALBOT ST,Wheeler Memorial Hall 15 Cabot St
+231,EMPTY STREET,['cd1978/entry/1978_Page_98 (1)_23.png'],,OUR LADY OF FATIMA UNIT OF ST
+232,EMPTY STREET,"['cd1978/entry/1978_Page_98 (1)_62.png', 'cd1978/entry/1978_Page_98 (1)_63.png']",,"MARRIOTT INN Charles At Orms St (02904), Tel 401-272-2400"
+233,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_98 (1)_67.png'],N/A,MOVERS
+234,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_98 (1)_77.png'],N/A,
+235,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_98 (2)_3.png'],N/A,
+236,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_98 (2)_4.png', 'cd1978/entry/1978_Page_98 (2)_5.png', 'cd1978/entry/1978_Page_98 (2)_6.png', 'cd1978/entry/1978_Page_98 (2)_7.png']","02920),","BALLOU JOHNSON & NICHOLS CO One Wholesale Way, Cranston, RI (02920), Tel 463-6700 (See Index To Advertisers)"
+237,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_98 (2)_33.png', 'cd1978/entry/1978_Page_98 (2)_34.png', 'cd1978/entry/1978_Page_98 (2)_35.png', 'cd1978/entry/1978_Page_98 (2)_36.png']","02920),","BALLOU JOHNSON & NICHOLS CO One Wholesale Way, Cranston, RI (02920), Tel 463-6700 (See Index To Advertisers)"
+238,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_98 (3)_13.png'],NORTH HOWARD AVE,M & G Industries Inc 634 Howard Bldg
+239,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_98 (3)_19.png'],NORTH HOWARD AVE,Nine Hundred Corp 700 Howard Bldg
+240,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_98 (3)_60.png'],N/A,"Dorrance Street, Tel 278-6010, Wash"
+241,"SCORE LESS THAN CUTOFF: 0,40.0,PROVIDENCE",['cd1978/entry/1978_Page_98 (3)_63.png'],10TH ST,278-6090
+242,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_98 (3)_71.png'],NORTH HOWARD AVE,Acacia Mutual Life Ins 800 Howard Bldg
+243,"SCORE LESS THAN CUTOFF: th FI,65.0,PROVIDENCE","['cd1978/entry/1978_Page_98 (3)_74.png', 'cd1978/entry/1978_Page_98 (3)_75.png']",4TH ST,Aetna Life & Casualty Insurance One Hosp Trust Plaza 10th FI
+244,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE","['cd1978/entry/1978_Page_98 (3)_82.png', 'cd1978/entry/1978_Page_98 (3)_83.png', 'cd1978/entry/1978_Page_98 (3)_84.png']",NORTH HOWARD AVE,American General Life Insurance Co 10 Howard Bldg Rm 334
+245,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE","['cd1978/entry/1978_Page_99 (1)_10.png', 'cd1978/entry/1978_Page_99 (1)_11.png']",NORTH HOWARD AVE,American National Insurance Co 511 Howard Bldg
+246,"SCORE LESS THAN CUTOFF: th FI,65.0,PROVIDENCE","['cd1978/entry/1978_Page_99 (1)_18.png', 'cd1978/entry/1978_Page_99 (1)_19.png']",4TH ST,Amica Mutual Ins Co One Hosp Trust Plaza 19th FI
+247,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_99 (1)_37.png'],NORTH HOWARD AVE,Berkshire Life Insurance Co 430 Howard Bldg
+248,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE","['cd1978/entry/1978_Page_99 (1)_52.png', 'cd1978/entry/1978_Page_99 (1)_53.png']",NORTH HOWARD AVE,Broker's Service Agency Inc 10 Howard Bldg Rm 816
+249,"SCORE LESS THAN CUTOFF: th F),68.5,PROVIDENCE","['cd1978/entry/1978_Page_99 (1)_74.png', 'cd1978/entry/1978_Page_99 (1)_75.png']",4TH ST,Chicago Title Insurance Co One Hosp Trust Plaza 18th F)
+250,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE","['cd1978/entry/1978_Page_99 (1)_83.png', 'cd1978/entry/1978_Page_99 (1)_84.png']",NORTH HOWARD AVE,Connecticut General Life Ins Co 810 Howard Bldg
+251,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE","['cd1978/entry/1978_Page_99 (1)_85.png', 'cd1978/entry/1978_Page_99 (1)_86.png']",NORTH HOWARD AVE,Connecticut General Life Ins Co 218 Howard Bldg
+252,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_99 (1)_90.png'],NORTH HOWARD AVE,Continental Insurance Co 632 Howard Bldg
+253,"SCORE LESS THAN CUTOFF: Howard Bidg,76.0,PROVIDENCE","['cd1978/entry/1978_Page_99 (1)_91.png', 'cd1978/entry/1978_Page_99 (1)_92.png']",NORTH HOWARD AVE,Countrywide Life Insurance Co 1141 Howard Bidg
+254,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE","['cd1978/entry/1978_Page_99 (1)_106.png', 'cd1978/entry/1978_Page_99 (1)_107.png']",NORTH HOWARD AVE,D'Orlando Makowsky Associates Inc 616 Howard Bldg
+255,"SCORE LESS THAN CUTOFF: Howard Bidg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_99 (2)_36.png'],NORTH HOWARD AVE,Gorton & O'Connor 740 Howard Bidg
+256,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_99 (2)_44.png'],NORTH HOWARD AVE,Hartley Wm H Inc 501 Howard Bldg
+257,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE","['cd1978/entry/1978_Page_99 (2)_52.png', 'cd1978/entry/1978_Page_99 (2)_53.png']",NORTH HOWARD AVE,Independent Ins Agents Of Ri 622 Howard Bldg
+258,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE","['cd1978/entry/1978_Page_99 (2)_56.png', 'cd1978/entry/1978_Page_99 (2)_57.png']",NORTH HOWARD AVE,Insurance Co Of North America 311 Howard Bldg
+259,"SCORE LESS THAN CUTOFF: th Fi,65.0,PROVIDENCE","['cd1978/entry/1978_Page_99 (2)_58.png', 'cd1978/entry/1978_Page_99 (2)_59.png']",4TH ST,Insurance Services Office Of Rhode Island One Ho. Trust Plaza 14th Fi
+260,"SCORE LESS THAN CUTOFF: Howard Bidg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_99 (2)_77.png'],NORTH HOWARD AVE,Knibb Sheehan & Co 424 Howard Bidg
+261,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE","['cd1978/entry/1978_Page_99 (3)_4.png', 'cd1978/entry/1978_Page_99 (3)_5.png']",NORTH HOWARD AVE,Mc Coy James F Insurance Agency 601 Howard Bldg
+262,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_99 (3)_17.png'],NORTH HOWARD AVE,Monarch Life Insurance Co 414 Howard Bldg
+263,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_99 (3)_30.png'],NORTH HOWARD AVE,Nadeau Leo Agency 334 Howard Bldg
+264,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE","['cd1978/entry/1978_Page_99 (3)_33.png', 'cd1978/entry/1978_Page_99 (3)_34.png']",NORTH HOWARD AVE,National Brokerage Service Inc 510 Howard Bldg
+265,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_99 (3)_35.png'],NORTH HOWARD AVE,National Life Insurance Co 211 Howard Bldg
+266,"SCORE LESS THAN CUTOFF: Howard Bidg,76.0,PROVIDENCE","['cd1978/entry/1978_Page_99 (3)_43.png', 'cd1978/entry/1978_Page_99 (3)_44.png']",NORTH HOWARD AVE,New England Underwriters Inc 512 Howard Bidg
+267,"SCORE LESS THAN CUTOFF: RIDGEWAY AVENUE PROVIDENCE,78.0,PROVIDENCE","['cd1978/entry/1978_Page_99 (3)_57.png', 'cd1978/entry/1978_Page_99 (3)_58.png', 'cd1978/entry/1978_Page_99 (3)_59.png', 'cd1978/entry/1978_Page_99 (3)_60.png', 'cd1978/entry/1978_Page_99 (3)_61.png']",PROVIDENCE ST,ORTOLEVA ROBERT S 24 RIDGEWAY AVENUE PROVIDENCE (02909) TELEPHONE 421-7112 RESIDENCE TELEPHONE 351-6682
+268,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE","['cd1978/entry/1978_Page_99 (3)_101.png', 'cd1978/entry/1978_Page_99 (3)_102.png', 'cd1978/entry/1978_Page_99 (3)_103.png']",NORTH HOWARD AVE,R I Association Of Insurance Agents Inc 622 Howard Bldg
+269,"SCORE LESS THAN CUTOFF: d FI,62.0,PROVIDENCE","['cd1978/entry/1978_Page_100 (1)_8.png', 'cd1978/entry/1978_Page_100 (1)_9.png']",DI FAZIO DR,Rhode Island Joint Reinsurance Assn One Hosp Trust Plaza 22d FI
+270,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE","['cd1978/entry/1978_Page_100 (1)_14.png', 'cd1978/entry/1978_Page_100 (1)_15.png']",NORTH HOWARD AVE,Royal Globe Insurance Companies 304 Howard Bldg
+271,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_100 (1)_16.png'],NORTH HOWARD AVE,Rumford Insurance Co 718 Howard Bldg
+272,"SCORE LESS THAN CUTOFF: Catamore Bivd, East Providence, RI,74.5,PROVIDENCE","['cd1978/entry/1978_Page_100 (1)_34.png', 'cd1978/entry/1978_Page_100 (1)_35.png', 'cd1978/entry/1978_Page_100 (1)_36.png', 'cd1978/entry/1978_Page_100 (1)_37.png']",PROVIDENCE PL,"STATE MUTUAL LIFE ASSURANCE COMPANY OF AMERICA 60 Catamore Bivd, East Providence, RI (02914), Tel 438-7350"
+273,"SCORE LESS THAN CUTOFF: Howard Bidg,76.0,PROVIDENCE","['cd1978/entry/1978_Page_100 (1)_46.png', 'cd1978/entry/1978_Page_100 (1)_47.png']",NORTH HOWARD AVE,Transamerican Life Ing & Annuity Co 1141 Howard Bidg
+274,"SCORE LESS THAN CUTOFF: Weyboseet Hill 5th FI,71.0,PROVIDENCE","['cd1978/entry/1978_Page_100 (1)_48.png', 'cd1978/entry/1978_Page_100 (1)_49.png']",WEYBOSSET ST,Travelers Insurance Client Service Center 1 Weyboseet Hill 5th FI
+275,"SCORE LESS THAN CUTOFF: Howard Bidg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_100 (1)_70.png'],NORTH HOWARD AVE,Watson E L Co Inc 716 Howard Bidg
+276,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_100 (2)_32.png'],N/A,AETNA LIFE INSURANCE CO-AETNA
+277,"SCORE LESS THAN CUTOFF: Hospital Trust Tower,78.5,PROVIDENCE","['cd1978/entry/1978_Page_100 (2)_34.png', 'cd1978/entry/1978_Page_100 (2)_35.png']",HOSPITAL ST,"INSURANCE CO 820 Hospital Trust Tower (02903), Tel (401) 456-2900"
+278,EMPTY STREET,"['cd1978/entry/1978_Page_100 (2)_36.png', 'cd1978/entry/1978_Page_100 (2)_37.png', 'cd1978/entry/1978_Page_100 (2)_38.png']",7500 ,AFFILIATED FM INSURANCE CO Allendale Park PO Box 7500 (Johnston RI 02919) Tel 275-3000
+279,EMPTY STREET,"['cd1978/entry/1978_Page_100 (2)_45.png', 'cd1978/entry/1978_Page_100 (2)_46.png', 'cd1978/entry/1978_Page_100 (2)_47.png']",7500 ,APPALACHIAN INSURANCE CO Allendale Park PO Box 7500 (Johnston R I 02919) Tel 275-3000
+280,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_100 (2)_62.png', 'cd1978/entry/1978_Page_100 (2)_63.png', 'cd1978/entry/1978_Page_100 (2)_64.png']","7500, ","NEW PROVIDENCE CORP Allendale Park, Box 7500, (Johnston, 02919), Tel 275-3000"
+281,"SCORE LESS THAN CUTOFF: Dorrance St, Suite 334,77.5,PROVIDENCE","['cd1978/entry/1978_Page_100 (2)_75.png', 'cd1978/entry/1978_Page_100 (2)_76.png', 'cd1978/entry/1978_Page_100 (2)_77.png']",DORRANCE PLZ,"UNITED CHAMBERS INSURANCE . TRUST 10 Dorrance St, Suite 334 (02903) Tel 421-9400"
+282,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_100 (3)_3.png'],N/A,Advertisers)
+283,"SCORE LESS THAN CUTOFF: Greenville Av, Johnston, R I,78.0,PROVIDENCE","['cd1978/entry/1978_Page_100 (3)_19.png', 'cd1978/entry/1978_Page_100 (3)_20.png', 'cd1978/entry/1978_Page_100 (3)_21.png', 'cd1978/entry/1978_Page_100 (3)_22.png']",GREENVILLE AVE,"MILLER CHAS CO 484 Greenville Av, Johnston, R I (02919), Tels 231-0680 And 781-0600 (See Index To Advertisers)"
+284,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_100 (3)_44.png'],NORTH HOWARD AVE,Kidder Peabody & Co Inc 544 Howard Bldg
+285,"SCORE LESS THAN CUTOFF: th F},68.5,PROVIDENCE","['cd1978/entry/1978_Page_101 (1)_19.png', 'cd1978/entry/1978_Page_101 (1)_20.png']",4TH ST,Carolan & Co Inc One Hosp Trust Plaza 24th F}
+286,"SCORE LESS THAN CUTOFF: th Fl,65.0,PROVIDENCE","['cd1978/entry/1978_Page_101 (1)_21.png', 'cd1978/entry/1978_Page_101 (1)_22.png']",4TH ST,Cummings & Co Inc One Hosp Trust Plaza 24th Fl
+287,"SCORE LESS THAN CUTOFF: Hospital Trust Bldg, 15 Westminster St,,77.5,PROVIDENCE","['cd1978/entry/1978_Page_101 (1)_32.png', 'cd1978/entry/1978_Page_101 (1)_33.png', 'cd1978/entry/1978_Page_101 (1)_34.png']",WESTMINSTER ST,"MILLER & GEORGE 630 Hospital Trust Bldg, 15 Westminster St, (02903) Tel 421-6070, Newport, Enterprise 3535"
+288,FAILED TO PARSE AN ADDRESS,"['cd1978/entry/1978_Page_101 (1)_37.png', 'cd1978/entry/1978_Page_101 (1)_38.png']",N/A,Tucker Anthony & R L Day Inc One Hosp Trust Plaza
+289,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_101 (2)_70.png', 'cd1978/entry/1978_Page_101 (2)_71.png', 'cd1978/entry/1978_Page_101 (2)_72.png']","02865),","MICHAELS JEWELERS Lincoln Mall (Lincoln; 02865), Tel 333-5522 (See Index To Advertisers)"
+290,"SCORE LESS THAN CUTOFF: 0,40.0,PROVIDENCE",['cd1978/entry/1978_Page_101 (3)_13.png'],10TH ST,421-8400
+291,"SCORE LESS THAN CUTOFF: Pawtucket Av, Pawtucket, R I,61.5,PROVIDENCE","['cd1978/entry/1978_Page_102 (3)_51.png', 'cd1978/entry/1978_Page_102 (3)_52.png', 'cd1978/entry/1978_Page_102 (3)_53.png']",PAWTUXET AV,"ADAMS E A & SON INC (FINDINGS) 545 Pawtucket Av, Pawtucket, R I (02860), Tel 726-3000"
+292,EMPTY STREET,"['cd1978/entry/1978_Page_102 (3)_70.png', 'cd1978/entry/1978_Page_102 (3)_71.png', 'cd1978/entry/1978_Page_102 (3)_72.png']",8 ,"LI TOOL & DIE CO INC 387 Charles St, Bldg 8 (02904), Tel (401) 751-2735 (See Index To Advertisers)"
+293,"SCORE LESS THAN CUTOFF: Colorado Ave,75.0,PROVIDENCE","['cd1978/entry/1978_Page_103 (2)_22.png', 'cd1978/entry/1978_Page_103 (2)_23.png', 'cd1978/entry/1978_Page_103 (2)_24.png']",ELDORADO ST,"HEALY J T & SON CORP 50 Colorado Av (Warwick, R I 02886), Tel 738-"
+294,"SCORE LESS THAN CUTOFF: Pomfret St,71.5,PROVIDENCE",['cd1978/entry/1978_Page_103 (3)_77.png'],SOMERSET ST,Broomfield Scrap Iron 4 Pomfret St
+295,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_104 (2)_46.png'],N/A,Pate V & Sons Inc Tingley La (N Prov)
+296,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_104 (2)_47.png'],N/A,Pate V & Sons Inc Tingley La (N Prov)
+297,"SCORE LESS THAN CUTOFF: d Fl,50.5,PROVIDENCE","['cd1978/entry/1978_Page_104 (3)_46.png', 'cd1978/entry/1978_Page_104 (3)_47.png']",FLORA ST,Adler Pollock & Sheehan Inc One Hosp Trust Plaza 23d Fl
+298,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_104 (3)_54.png'],N/A,Allen W Slater Jr Howard Bldg
+299,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_104 (3)_55.png'],NORTH HOWARD AVE,Almonte Alf A Jr 640 Howard Bldg
+300,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_105 (1)_4.png'],NORTH HOWARD AVE,Booth John M 514 Howard Bldg
+301,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_105 (1)_11.png'],NORTH HOWARD AVE,Brodsky Irving 514 Howard Bldg
+302,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_105 (1)_16.png'],NORTH HOWARD AVE,Bucci Anthony J 524 Howard Bldg
+303,EMPTY STREET,['cd1978/entry/1978_Page_105 (1)_55.png'],,Coia Raymond R &15 Smith St
+304,EMPTY STREET,"['cd1978/entry/1978_Page_105 (1)_71.png', 'cd1978/entry/1978_Page_105 (1)_72.png']",,Darigan Francis J Jr 76.Westminster St Rm
+305,EMPTY STREET,['cd1978/entry/1978_Page_105 (1)_73.png'],,David Oscar M ‘111 Westminster St Rm 911
+306,"SCORE LESS THAN CUTOFF: Hospital Trust Tower, 1 Hospital Trust Plaza,65.5,PROVIDENCE","['cd1978/entry/1978_Page_105 (2)_2.png', 'cd1978/entry/1978_Page_105 (2)_3.png']",HOSPITAL ST,"Dick & Hague 2420 Hospital Trust Tower, 1 Hospital Trust Plaza (02903), Tel 272-8200"
+307,EMPTY STREET,"['cd1978/entry/1978_Page_105 (2)_19.png', 'cd1978/entry/1978_Page_105 (2)_20.png', 'cd1978/entry/1978_Page_105 (2)_21.png', 'cd1978/entry/1978_Page_105 (2)_22.png', 'cd1978/entry/1978_Page_105 (2)_23.png']",2700 ,"Edwards & Angell One Hospital Trust Plaza Suite 2700 (02903) Providence, RI (02903) Telephone 401-274-9200"
+308,"SCORE LESS THAN CUTOFF: Howard Bidg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_105 (2)_57.png'],NORTH HOWARD AVE,Gerstenblatt Wm 834 Howard Bidg
+309,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_105 (3)_15.png'],NORTH HOWARD AVE,Johnston Joseph C 801 Howard Bldg
+310,"SCORE LESS THAN CUTOFF: Armistice Blvd,61.0,PROVIDENCE","['cd1978/entry/1978_Page_105 (3)_20.png', 'cd1978/entry/1978_Page_105 (3)_21.png']",HARBORSIDE BLVD,"Fatz Henry H 393 Armistice Blvd (Pawtucket, R I; 02861), Tel 722-6200"
+311,"SCORE LESS THAN CUTOFF: Armistice Blvd,61.0,PROVIDENCE","['cd1978/entry/1978_Page_105 (3)_22.png', 'cd1978/entry/1978_Page_105 (3)_23.png']",HARBORSIDE BLVD,"Katz Herbert 393 Armistice Blvd (Pawtucket, 02861) Tel 722-6200"
+312,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_105 (3)_24.png'],NORTH HOWARD AVE,Kehoe David J 640 Howard Bldg
+313,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE","['cd1978/entry/1978_Page_105 (3)_35.png', 'cd1978/entry/1978_Page_105 (3)_36.png']",NORTH HOWARD AVE,Kirshenbaum Law Offices Inc 318 Howard Bldg
+314,"SCORE LESS THAN CUTOFF: Hospital Trust Tower Providence, RI 02903,71.0,PROVIDENCE","['cd1978/entry/1978_Page_105 (3)_43.png', 'cd1978/entry/1978_Page_105 (3)_44.png']",PROVIDENCE PL,"Letts Quinn & Licht 1616 Hospital Trust Tower Providence, RI 02903 Tel 421-5650"
+315,EMPTY STREET,['cd1978/entry/1978_Page_105 (3)_58.png'],,Mac Lean Paul G .58 Weybosset St Rm 503
+316,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_105 (3)_71.png'],NORTH HOWARD AVE,Marcotte Leroy V 640 Howard Bldg
+317,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_105 (3)_93.png'],NORTH HOWARD AVE,Mc Mahon & Mc Mahon 1144 Howard Bldg
+318,"SCORE LESS THAN CUTOFF: Westminster Street, Suite 830,78.0,PROVIDENCE","['cd1978/entry/1978_Page_106 (1)_86.png', 'cd1978/entry/1978_Page_106 (1)_87.png', 'cd1978/entry/1978_Page_106 (1)_88.png']",WESTMINSTER ST,"Rice H Eliot (Rice, Dolan, Kiernan & Kershaw) 40 Westminster Street, Suite 830 (02903), Tel 272-8800"
+319,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE","['cd1978/entry/1978_Page_106 (1)_91.png', 'cd1978/entry/1978_Page_106 (1)_92.png']",NORTH HOWARD AVE,Roberts & Willey Inc 400 Howard Bldg
+320,"SCORE LESS THAN CUTOFF: th FI,65.0,PROVIDENCE","['cd1978/entry/1978_Page_106 (2)_31.png', 'cd1978/entry/1978_Page_106 (2)_32.png']",4TH ST,Selya & Iannuccillo One Hosp Trust Plaza 25th FI
+321,"SCORE LESS THAN CUTOFF: Hospital Trust Tower Providence Rhode Island,71.0,PROVIDENCE","['cd1978/entry/1978_Page_106 (2)_67.png', 'cd1978/entry/1978_Page_106 (2)_68.png', 'cd1978/entry/1978_Page_106 (2)_69.png', 'cd1978/entry/1978_Page_106 (2)_70.png', 'cd1978/entry/1978_Page_106 (2)_71.png']",PROVIDENCE PL,Tillinghast Collins & Graham Room 2000 Hospital Trust Tower Providence Rhode Island (02903) Telephone (401) 274-3800
+322,"SCORE LESS THAN CUTOFF: d Fl,50.5,PROVIDENCE","['cd1978/entry/1978_Page_106 (3)_9.png', 'cd1978/entry/1978_Page_106 (3)_10.png']",FLORA ST,Winograd Shine & Zacks One Hosp Trust Plaza 22d Fl
+323,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_106 (3)_47.png'],N/A,EXTENSION DIVISON LIBRARY
+324,EMPTY STREET,"['cd1978/entry/1978_Page_106 (3)_49.png', 'cd1978/entry/1978_Page_106 (3)_50.png']",,"Promenade And Gaspee St (02908), Tel 831-7550"
+325,EMPTY STREET,"['cd1978/entry/1978_Page_107 (1)_3.png', 'cd1978/entry/1978_Page_107 (1)_4.png', 'cd1978/entry/1978_Page_107 (1)_5.png']",,"ROGER WILLIAMS COLLEGE LIBRARY Old Ferry Rd (Bristol; 02809), Tel 255-2361"
+326,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_107 (1)_13.png'],N/A,WEAVER MEMORIAL LIBRARY EAST
+327,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_107 (1)_15.png', 'cd1978/entry/1978_Page_107 (1)_16.png']","02914),","Grove St (E Providence; 02914), Tel 435-2453"
+328,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_107 (1)_19.png'],N/A,NARRAGANSETT
+329,"SCORE LESS THAN CUTOFF: 7,50.0,PROVIDENCE","['cd1978/entry/1978_Page_107 (1)_23.png', 'cd1978/entry/1978_Page_107 (1)_24.png']",7TH ST,280 MELROSE STREET PROVIDENCE R I 02907
+330,"SCORE LESS THAN CUTOFF: 0,40.0,PROVIDENCE",['cd1978/entry/1978_Page_107 (1)_26.png'],10TH ST,781-0100
+331,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_107 (1)_27.png'],N/A,PROVIDENCE GAS
+332,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_107 (1)_30.png', 'cd1978/entry/1978_Page_107 (1)_31.png']",02903),"100 WEYBOSSET STREET (PROVIDENCE, 02903)"
+333,"SCORE LESS THAN CUTOFF: 0,40.0,PROVIDENCE",['cd1978/entry/1978_Page_107 (1)_33.png'],10TH ST,831-8800
+334,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_107 (1)_45.png'],N/A,RETAIL
+335,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_107 (2)_73.png'],N/A,Advertisers)
+336,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_107 (3)_1.png'],N/A,
+337,"SCORE LESS THAN CUTOFF: Hospital Trust Plaza,78.5,PROVIDENCE","['cd1978/entry/1978_Page_107 (3)_10.png', 'cd1978/entry/1978_Page_107 (3)_11.png', 'cd1978/entry/1978_Page_107 (3)_12.png', 'cd1978/entry/1978_Page_107 (3)_13.png', 'cd1978/entry/1978_Page_107 (3)_14.png', 'cd1978/entry/1978_Page_107 (3)_15.png', 'cd1978/entry/1978_Page_107 (3)_16.png', 'cd1978/entry/1978_Page_107 (3)_17.png', 'cd1978/entry/1978_Page_107 (3)_18.png']",HOSPITAL ST,"RHODE ISLAND HOSPITAL TRUST NATIONAL BANK 1 Hospital Trust Plaza (02903), Tel 278-8000, 10 Dorrance St (02903), 238 Thayer Street (02906), 1 Olneyville Square (02909), 434 Smith Street (02908), 244 Weyboeset Street (02903), North Main Street (02904) (See Index To Advertisers)"
+338,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_107 (3)_23.png'],NORTH HOWARD AVE,Freese Mortgage Co Inc 240 Howard Bldg
+339,EMPTY STREET,"['cd1978/entry/1978_Page_107 (3)_46.png', 'cd1978/entry/1978_Page_107 (3)_47.png', 'cd1978/entry/1978_Page_107 (3)_48.png']",,"HARRIS LUMBER CO INC Harris At Atwells Av (02909), Tel 421-4200 (See Index To Advertisers)"
+340,"SCORE LESS THAN CUTOFF: Tippecanoe St,67.5,PROVIDENCE",['cd1978/entry/1978_Page_108 (1)_18.png'],TAPPAN ST,Danoco Inc 12 Tippecanoe St
+341,EMPTY STREET,['cd1978/entry/1978_Page_108 (1)_55.png'],,Wanskuck Co §21 S Main St
+342,"SCORE LESS THAN CUTOFF: Pomfret St,71.5,PROVIDENCE","['cd1978/entry/1978_Page_108 (1)_58.png', 'cd1978/entry/1978_Page_108 (1)_59.png']",SOMERSET ST,Aero Machinery & Equipment Co Inc 11 Pomfret St
+343,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_108 (2)_26.png'],N/A,MARKET RESEARCH AND
+344,EMPTY STREET,"['cd1978/entry/1978_Page_109 (1)_5.png', 'cd1978/entry/1978_Page_109 (1)_6.png', 'cd1978/entry/1978_Page_109 (1)_7.png']",8 ,"L I TOOL & DIE CO INC 387 Charles St, Bldg 8 (02904), Tel (401) 751-2735 (See Index To Advertisers)"
+345,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_109 (1)_60.png'],N/A,Williams Roger Monument Prospect Ter
+346,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_109 (1)_62.png'],N/A,COLUMBUS NATIONAL
+347,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_109 (1)_66.png', 'cd1978/entry/1978_Page_109 (1)_67.png', 'cd1978/entry/1978_Page_109 (1)_68.png', 'cd1978/entry/1978_Page_109 (1)_69.png', 'cd1978/entry/1978_Page_109 (1)_70.png']",02903),(02903) TELEPHONE 751-9200 591 CHARLES ST (02904) TELEPHONE 861-0250
+348,EMPTY STREET,"['cd1978/entry/1978_Page_109 (1)_71.png', 'cd1978/entry/1978_Page_109 (1)_72.png']",,131 ELMGROVE AV (02906)
+349,"SCORE LESS THAN CUTOFF: -5320,29.0,PROVIDENCE",['cd1978/entry/1978_Page_109 (1)_73.png'],I 95,TELEPHONE 351-5320
+350,EMPTY STREET,"['cd1978/entry/1978_Page_109 (1)_74.png', 'cd1978/entry/1978_Page_109 (1)_75.png', 'cd1978/entry/1978_Page_109 (1)_76.png']",,280 ATWELLS AV (02903) TELEPHONE 421-3244
+351,EMPTY STREET,"['cd1978/entry/1978_Page_109 (2)_4.png', 'cd1978/entry/1978_Page_109 (2)_5.png', 'cd1978/entry/1978_Page_109 (2)_6.png', 'cd1978/entry/1978_Page_109 (2)_7.png']",,1925 MINERAL SPRING AV NORTH PROVIDENCE (02911) TELEPHONE 353-1000 (See Index To Advertisers)
+352,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_109 (2)_24.png'],N/A,Advertisers)
+353,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_109 (2)_31.png'],N/A,- AND REPAIRERS
+354,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_109 (2)_44.png'],NORTH HOWARD AVE,Corsair Packing Co Inc 314 Howard Bldg
+355,EMPTY STREET,"['cd1978/entry/1978_Page_109 (2)_65.png', 'cd1978/entry/1978_Page_109 (2)_66.png', 'cd1978/entry/1978_Page_109 (2)_67.png', 'cd1978/entry/1978_Page_109 (2)_68.png']",,"RHODE ISLAND SCHOOL OF DESIGN (Museum Of Art), Dr Stephen E Ostrow Director, 2 College St (02906), Tel 331-3511"
+356,"SCORE LESS THAN CUTOFF: Howard Bidg,76.0,PROVIDENCE","['cd1978/entry/1978_Page_109 (3)_46.png', 'cd1978/entry/1978_Page_109 (3)_47.png']",NORTH HOWARD AVE,Transamerica Mutual Fund Sales 1141 Howard Bidg
+357,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_109 (3)_50.png'],NORTH HOWARD AVE,Associated Press 734 Howard Bldg
+358,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_109 (3)_54.png'],N/A,Howard News Howard Bldg
+359,"SCORE LESS THAN CUTOFF: 1lith St,73.5,PROVIDENCE",['cd1978/entry/1978_Page_110 (1)_48.png'],10TH ST,Briggs Mary Mrs 115 1lith St
+360,EMPTY STREET,"['cd1978/entry/1978_Page_110 (2)_78.png', 'cd1978/entry/1978_Page_110 (2)_79.png']",,Sun Oil Co (Ne Centra! Storehouse) Seaview Dr
+361,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE","['cd1978/entry/1978_Page_111 (2)_12.png', 'cd1978/entry/1978_Page_111 (2)_13.png']",NORTH HOWARD AVE,Manufacturing Jewelers & Silversmiths Of Am Inc 340 Howard Bldg
+362,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_111 (2)_48.png'],NORTH HOWARD AVE,R I Builders Association 1143 Howard Bldg
+363,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_111 (3)_7.png'],N/A,AMALGAMATED CLOTHING &
+364,"SCORE LESS THAN CUTOFF: Ng AflCio 57 Eddy St.,57.5,PROVIDENCE","['cd1978/entry/1978_Page_111 (3)_69.png', 'cd1978/entry/1978_Page_111 (3)_70.png']",BALCOM ST,Providence Newspaper Guild Local 41 Ng Afl- Cio 57 Eddy St. Rm 306
+365,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_112 (1)_51.png'],N/A,GREATER PROVIDENCE YOUNG
+366,EMPTY STREET,['cd1978/entry/1978_Page_112 (1)_53.png'],,"160 Broad St (02903), Tel 331-9200"
+367,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_112 (1)_56.png'],NORTH HOWARD AVE,Health Planning Council Inc 520 Howard Bldg
+368,"SCORE LESS THAN CUTOFF: Cavallatti St,71.5,PROVIDENCE",['cd1978/entry/1978_Page_112 (2)_25.png'],CALLA ST,Rosario Society 17 Cavallatti St
+369,"SCORE LESS THAN CUTOFF: th Fl,65.0,PROVIDENCE","['cd1978/entry/1978_Page_112 (3)_31.png', 'cd1978/entry/1978_Page_112 (3)_32.png']",4TH ST,National Health & Welfare Retirement Assoc One Hosp Trust Plaza 17th Fl
+370,"SCORE LESS THAN CUTOFF: Houghton St, Mailing Address PO Box 6663,67.0,PROVIDENCE","['cd1978/entry/1978_Page_112 (3)_78.png', 'cd1978/entry/1978_Page_112 (3)_79.png', 'cd1978/entry/1978_Page_112 (3)_80.png']",HOUGHTON ST,"VOCATIONAL RESOURCES INC 100 Houghton St, Mailing Address PO Box 6663 (02940), Tel (401) 861-2080"
+371,"SCORE LESS THAN CUTOFF: Greenville Av, Johnston, R I,78.0,PROVIDENCE","['cd1978/entry/1978_Page_113 (1)_45.png', 'cd1978/entry/1978_Page_113 (1)_46.png', 'cd1978/entry/1978_Page_113 (1)_47.png', 'cd1978/entry/1978_Page_113 (1)_48.png']",GREENVILLE AVE,"MILLER CHAS CO 484 Greenville Av, Johnston, R I (02919), Tels 231-0680 And 781-0600 (See Index To Advertisers)"
+372,"SCORE LESS THAN CUTOFF: Greenville Av, Johnston, R I,78.0,PROVIDENCE","['cd1978/entry/1978_Page_113 (1)_53.png', 'cd1978/entry/1978_Page_113 (1)_54.png', 'cd1978/entry/1978_Page_113 (1)_55.png', 'cd1978/entry/1978_Page_113 (1)_56.png']",GREENVILLE AVE,"MILLER CHAS CO 484 Greenville Av, Johnston, R I (02919), Tels 231-0680 And 781-0600 (See Index To Advertisers)"
+373,"SCORE LESS THAN CUTOFF: Braemore Way,71.5,PROVIDENCE","['cd1978/entry/1978_Page_113 (1)_64.png', 'cd1978/entry/1978_Page_113 (1)_65.png', 'cd1978/entry/1978_Page_113 (1)_66.png', 'cd1978/entry/1978_Page_113 (1)_67.png']",BELMORE RD,"A B DICK COMPANY 1 Braemore Way (Warwick; 02887), Sales Tel 738-8400, Service Tel 738-8450 (See Index To Advertisers)"
+374,EMPTY STREET,['cd1978/entry/1978_Page_113 (2)_71.png'],,Wanskuck Park Woodward Rd
+375,"SCORE LESS THAN CUTOFF: 5,53.5,PROVIDENCE",['cd1978/entry/1978_Page_114 (1)_65.png'],I 95,Arif Mohammad | Randall Sq Suite 305
+376,"SCORE LESS THAN CUTOFF: Randall S. Suite 203,77.5,PROVIDENCE","['cd1978/entry/1978_Page_115 (1)_102.png', 'cd1978/entry/1978_Page_115 (1)_103.png']",RANDALL SQ,Providence Neurosurgical Group Ltd The 1 Randall S. Suite 203
+377,"SCORE LESS THAN CUTOFF: Pomfret St,71.5,PROVIDENCE",['cd1978/entry/1978_Page_115 (3)_74.png'],SOMERSET ST,Jane’s Picture Frames 1 Pomfret St
+378,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_116 (1)_73.png'],N/A,ELECTROCOATING INDUSTRIES INC
+379,"SCORE LESS THAN CUTOFF: Tag Drive,71.5,PROVIDENCE","['cd1978/entry/1978_Page_116 (1)_75.png', 'cd1978/entry/1978_Page_116 (1)_76.png']",WEST RIVER ST,"CONDUCTORS) 7 Tag Drive (N Providence;02911), Tel 353-5810"
+380,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_116 (2)_59.png', 'cd1978/entry/1978_Page_116 (2)_60.png']","02909),","GRECO BROS INC Greco Lane (02909), Tel 421-9306"
+381,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_117 (1)_81.png'],N/A,Postal Instant Press Howard Bldg
+382,"SCORE LESS THAN CUTOFF: Dorrance St, Suite 300,77.5,PROVIDENCE","['cd1978/entry/1978_Page_117 (2)_39.png', 'cd1978/entry/1978_Page_117 (2)_40.png', 'cd1978/entry/1978_Page_117 (2)_41.png']",DORRANCE PLZ,"PAOLINO JOSEPH R REAL ESTATE & INVESTMENTS 76 Dorrance St, Suite 300 (02903) Tel 274-6611"
+383,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_117 (2)_62.png'],N/A,NARRAGANSETT
+384,"SCORE LESS THAN CUTOFF: 7,50.0,PROVIDENCE","['cd1978/entry/1978_Page_117 (2)_66.png', 'cd1978/entry/1978_Page_117 (2)_67.png', 'cd1978/entry/1978_Page_117 (2)_68.png']",7TH ST,280 MELROSE STREET PROVIDENCE R I 02907 TELEPHONE 781-0100
+385,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_117 (2)_69.png'],N/A,PROVIDENCE GAS
+386,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_117 (2)_72.png', 'cd1978/entry/1978_Page_117 (2)_73.png']",02903),"100 WEYBOSSET STREET (PROVIDENCE, 02903)"
+387,"SCORE LESS THAN CUTOFF: 0,40.0,PROVIDENCE","['cd1978/entry/1978_Page_117 (2)_75.png', 'cd1978/entry/1978_Page_117 (2)_76.png', 'cd1978/entry/1978_Page_117 (2)_77.png']",10TH ST,831-8800
+388,"SCORE LESS THAN CUTOFF: WASHINGTON STREET BOSTON, MASS 02111,73.0,PROVIDENCE","['cd1978/entry/1978_Page_117 (3)_21.png', 'cd1978/entry/1978_Page_117 (3)_22.png', 'cd1978/entry/1978_Page_117 (3)_23.png']",WASHINGTON PL,"POLK R L & CO 600 WASHINGTON STREET BOSTON, MASS 02111"
+389,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_117 (3)_24.png'],N/A,“  TELEPHONE (617) 426-6309
+390,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_117 (3)_43.png'],NORTH HOWARD AVE,W EA N-W P J B-F M 940 Howard Bldg
+391,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_118 (1)_27.png'],N/A,Christian Science Reading Room Howard Bldg
+392,EMPTY STREET,['cd1978/entry/1978_Page_118 (1)_42.png'],,Arusha Corp | India St
+393,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_118 (1)_46.png'],N/A,1910
+394,"SCORE LESS THAN CUTOFF: 5,53.5,PROVIDENCE",['cd1978/entry/1978_Page_118 (1)_59.png'],I 95,Bellevue Shopping Center Associates 245
+395,"SCORE LESS THAN CUTOFF: 4,50.0,PROVIDENCE",['cd1978/entry/1978_Page_118 (1)_59.png'],4TH ST,Waterman St Rm 404
+396,"SCORE LESS THAN CUTOFF: Seekell St,68.0,PROVIDENCE",['cd1978/entry/1978_Page_118 (2)_37.png'],STEELE ST,City Hall Realty 37 Seekell St
+397,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_118 (3)_33.png'],N/A,Howard Realty Co Howard Bldg
+398,"SCORE LESS THAN CUTOFF: Dorrance St, Suite 300,77.5,PROVIDENCE","['cd1978/entry/1978_Page_119 (1).chop_51.png', 'cd1978/entry/1978_Page_119 (1).chop_52.png', 'cd1978/entry/1978_Page_119 (1).chop_53.png']",DORRANCE PLZ,"PAOLINO JOSEPH R REAL ESTATE & INVESTMENTS 76 Dorrance St, Suite 300 (02903) Tel 274-6611"
+399,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_119 (1).chop_77.png'],NORTH HOWARD AVE,Realestate Advisors 322 Howard Bldg
+400,"SCORE LESS THAN CUTOFF: th FI,65.0,PROVIDENCE","['cd1978/entry/1978_Page_119 (2).chop_87.png', 'cd1978/entry/1978_Page_119 (2).chop_88.png']",4TH ST,Gaudreau & Co Inc One Hosp Trust Plaza 24th FI
+401,EMPTY STREET,['cd1978/entry/1978_Page_119 (3).chop_25.png'],201 ,"Rm 201 (02903), Tel 331-2000"
+402,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_119 (3).chop_54.png'],N/A,BROWN UNIVERSITY BOOKSTORE
+403,"SCORE LESS THAN CUTOFF: Admiral St, Admiral Plaza,72.5,PROVIDENCE","['cd1978/entry/1978_Page_120 (2)_35.png', 'cd1978/entry/1978_Page_120 (2)_36.png', 'cd1978/entry/1978_Page_120 (2)_37.png', 'cd1978/entry/1978_Page_120 (2)_38.png', 'cd1978/entry/1978_Page_120 (2)_39.png']",ADMIRAL ST,"CHIN'S RESTAURANT Chinese And American Foods, 1000 Admiral St, Admiral Plaza (N Providence; 02904), Tel 353-9826 (See Index To Advertisers)"
+404,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_120 (3)_53.png'],N/A,Ivy Room Wriston Quadrangle
+405,"SCORE LESS THAN CUTOFF: b State House,78.0,PROVIDENCE",['cd1978/entry/1978_Page_121 (2)_3.png'],STATE HWY 10,State House Restaurant 7b State House
+406,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_121 (2)_66.png'],N/A,COLUMBUS NATIONAL
+407,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_121 (2)_70.png', 'cd1978/entry/1978_Page_121 (2)_71.png', 'cd1978/entry/1978_Page_121 (2)_72.png', 'cd1978/entry/1978_Page_121 (2)_73.png', 'cd1978/entry/1978_Page_121 (2)_74.png']",02903),(02903) TELEPHONE 751-9200 591 CHARLES ST (02904) TELEPHONE 861-0250
+408,EMPTY STREET,"['cd1978/entry/1978_Page_121 (2)_75.png', 'cd1978/entry/1978_Page_121 (2)_76.png']",,131] ELMGROVE AV (02906)
+409,"SCORE LESS THAN CUTOFF: -5320,29.0,PROVIDENCE",['cd1978/entry/1978_Page_121 (2)_77.png'],I 95,TELEPHONE 351-5320
+410,EMPTY STREET,"['cd1978/entry/1978_Page_121 (2)_78.png', 'cd1978/entry/1978_Page_121 (2)_79.png']",,260 ATWELLS AV (02903)
+411,"SCORE LESS THAN CUTOFF: -3244,29.0,PROVIDENCE",['cd1978/entry/1978_Page_121 (2)_80.png'],2ND ST,TELEPHONE 421-3244
+412,EMPTY STREET,"['cd1978/entry/1978_Page_121 (2)_81.png', 'cd1978/entry/1978_Page_121 (2)_82.png']",,1925 MINERAL SPRING AV NORTH PROVIDENCE (02911)
+413,"SCORE LESS THAN CUTOFF: -1000,50.0,PROVIDENCE","['cd1978/entry/1978_Page_121 (2)_83.png', 'cd1978/entry/1978_Page_121 (2)_84.png']",10TH ST,TELEPHONE 353-1000 (See Index To Advertisers)
+414,FAILED TO PARSE AN ADDRESS,"['cd1978/entry/1978_Page_121 (3)_3.png', 'cd1978/entry/1978_Page_121 (3)_4.png']",N/A,HOSPITAL TRUST NATIONAL BANK
+415,ERROR IN STREET MATCHING,['cd1978/entry/1978_Page_121 (3)_5.png'],02903),1 HOSPITAL TRUST PLAZA (02903)
+416,"SCORE LESS THAN CUTOFF: -8000,29.0,PROVIDENCE",['cd1978/entry/1978_Page_121 (3)_6.png'],8TH ST,TELEPHONE 278-8000
+417,EMPTY STREET,['cd1978/entry/1978_Page_121 (3)_7.png'],,10 DORRANCE ST (02903)
+418,EMPTY STREET,['cd1978/entry/1978_Page_121 (3)_8.png'],,244 WEYBOSSET ST (02903)
+419,EMPTY STREET,"['cd1978/entry/1978_Page_121 (3)_9.png', 'cd1978/entry/1978_Page_121 (3)_10.png']",,238 THAYER ST (02906) 1 OLNEYVILLE SQ (02909)
+420,EMPTY STREET,['cd1978/entry/1978_Page_121 (3)_11.png'],,434 SMITH ST (02908)
+421,EMPTY STREET,['cd1978/entry/1978_Page_121 (3)_12.png'],,501 NORTH MAIN ST (02904)
+422,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_121 (3)_13.png'],N/A,RHODE ISLAND HOSPITAL
+423,EMPTY STREET,['cd1978/entry/1978_Page_121 (3)_15.png'],,593 EDDY ST (02902)
+424,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_121 (3)_16.png'],N/A,PROVIDENCE COLLEGE OFFICE
+425,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_121 (3)_17.png', 'cd1978/entry/1978_Page_121 (3)_18.png']",02918),SLAVIN CENTER (02918) (See Index To Advertisters)
+426,FAILED TO PARSE AN ADDRESS,"['cd1978/entry/1978_Page_121 (3)_28.png', 'cd1978/entry/1978_Page_121 (3)_29.png']",N/A,Advertisers) SAFETY CLOTHING AND
+427,"SCORE LESS THAN CUTOFF: Eim St,75.0,PROVIDENCE",['cd1978/entry/1978_Page_121 (3)_40.png'],ELM ST,Rowse Sail Loft 45 Eim St
+428,"SCORE LESS THAN CUTOFF: Ethan St, Corner Ethan And Moorefield St,75.0,PROVIDENCE","['cd1978/entry/1978_Page_121 (3)_52.png', 'cd1978/entry/1978_Page_121 (3)_53.png', 'cd1978/entry/1978_Page_121 (3)_54.png']",MOOREFIELD ST,"SILVER LAKE SAUSAGE SHOP 80 Ethan St, Corner Ethan And Moorefield St (02909), Tel 944-4081"
+429,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_121 (3)_67.png', 'cd1978/entry/1978_Page_121 (3)_68.png']","02909),","(02909), Tel 944-6800, East Side Office . 120 Waterman St (02906), Tel 272-6600 ."
+430,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_121 (3)_73.png'],N/A,RHODE ISLAND
+431,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_121 (3)_76.png', 'cd1978/entry/1978_Page_121 (3)_77.png', 'cd1978/entry/1978_Page_121 (3)_78.png', 'cd1978/entry/1978_Page_121 (3)_79.png', 'cd1978/entry/1978_Page_121 (3)_80.png', 'cd1978/entry/1978_Page_121 (3)_81.png']",02903) ©,1 HOSPITAL TRUST PLAZA (02903) © TELEPHONE 278-8000 10 DORRANCE ST (02903) 244 WEYBOSSET ST (02903) 238 THAYER ST (02906) 1 OLNEYVILLE SQ (02909)
+432,EMPTY STREET,['cd1978/entry/1978_Page_121 (3)_82.png'],,434 SMITH ST (02908)
+433,EMPTY STREET,['cd1978/entry/1978_Page_121 (3)_83.png'],,501 NORTH MAIN ST (02904)
+434,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_121 (3)_84.png'],N/A,RHODE ISLAND HOSPITAL .  }
+435,FAILED TO PARSE AN ADDRESS,"['cd1978/entry/1978_Page_121 (3)_86.png', 'cd1978/entry/1978_Page_121 (3)_87.png', 'cd1978/entry/1978_Page_121 (3)_88.png']",N/A,
+436,EMPTY STREET,['cd1978/entry/1978_Page_122 (1)_4.png'],,593 EDDY ST (02902)
+437,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_122 (1)_6.png', 'cd1978/entry/1978_Page_122 (1)_7.png']",02918),SLAVIN CENTER (02918) (See Index To Advertisters)
+438,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_122 (1)_9.png'],N/A,FIRST FEDERAL SAVINGS
+439,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_122 (1)_13.png', 'cd1978/entry/1978_Page_122 (1)_14.png', 'cd1978/entry/1978_Page_122 (1)_15.png']",02901),110 WESTMINSTER STREET PROVIDENCE R I 02901) TELEPHONE 861-5400
+440,EMPTY STREET,['cd1978/entry/1978_Page_122 (1)_45.png'],,Brown University Prospect St
+441,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_122 (1)_46.png'],N/A,Brown University Wriston Quadrangle
+442,"SCORE LESS THAN CUTOFF: Edendale Ave,79.0,PROVIDENCE",['cd1978/entry/1978_Page_122 (2)_89.png'],VERNDALE AVE,Saint Thomas Regional School 15 Edendale Av
+443,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_122 (3)_50.png'],N/A,Rhode Island Schoo! For Deaf Corliss Park
+444,"SCORE LESS THAN CUTOFF: Pomfret St,71.5,PROVIDENCE",['cd1978/entry/1978_Page_122 (3)_65.png'],SOMERSET ST,Ludman & Co 21 Pomfret St
+445,"SCORE LESS THAN CUTOFF: Bucklin St, Providence, R I,79.0,PROVIDENCE","['cd1978/entry/1978_Page_123 (1)_14.png', 'cd1978/entry/1978_Page_123 (1)_15.png', 'cd1978/entry/1978_Page_123 (1)_16.png']",PROVIDENCE PL,"UNIMETRIC CORPORATION 77 Bucklin St, Providence, R I (02907), Tel 331- 9737"
+446,"SCORE LESS THAN CUTOFF: d,50.0,PROVIDENCE","['cd1978/entry/1978_Page_124 (1)_7.png', 'cd1978/entry/1978_Page_124 (1)_8.png']",ADA ST,S W Industries Inc One Hosp Trust Plaza 22d
+447,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_124 (2)_11.png'],NORTH HOWARD AVE,Tager Steamship Agency 714 Howard Bldg
+448,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_124 (2)_20.png'],N/A,Greco Bros Inc Greco La
+449,"SCORE LESS THAN CUTOFF: Howard Bldg,76.0,PROVIDENCE",['cd1978/entry/1978_Page_124 (2)_31.png'],NORTH HOWARD AVE,Reporting Associates 619 Howard Bldg
+450,"SCORE LESS THAN CUTOFF: Hospital Trust Bldg, 15 Westminster St,,77.5,PROVIDENCE","['cd1978/entry/1978_Page_124 (2)_47.png', 'cd1978/entry/1978_Page_124 (2)_48.png', 'cd1978/entry/1978_Page_124 (2)_49.png']",WESTMINSTER ST,"MILLER & GEORGE 630 Hospital Trust Bldg, 15 Westminster St, (02903) Tel 421-6070, Newport, Enterprise 3535"
+451,FAILED TO PARSE AN ADDRESS,"['cd1978/entry/1978_Page_125 (2)_26.png', 'cd1978/entry/1978_Page_125 (2)_27.png']",N/A,Abbey Telephone Service 86 Weybosset St Rm 607
+452,FAILED TO PARSE AN ADDRESS,"['cd1978/entry/1978_Page_125 (2)_28.png', 'cd1978/entry/1978_Page_125 (2)_29.png']",N/A,Business Men's Telephone Answering Service 111 Westminster St Rm 703
+453,FAILED TO PARSE AN ADDRESS,"['cd1978/entry/1978_Page_125 (2)_39.png', 'cd1978/entry/1978_Page_125 (2)_40.png']",N/A,Modern Telephone Answering Service 112 Union St Rm 301
+454,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_125 (2)_43.png'],N/A,American Telephone Co 234 Washington St
+455,FAILED TO PARSE AN ADDRESS,"['cd1978/entry/1978_Page_125 (2)_44.png', 'cd1978/entry/1978_Page_125 (2)_45.png', 'cd1978/entry/1978_Page_125 (2)_46.png']",N/A,"NEW ENGLAND TELEPHONE AND TELEGRAPH COMPANY 234 Washington St (02901), Tel 525-9911"
+456,FAILED TO PARSE AN ADDRESS,"['cd1978/entry/1978_Page_125 (2)_47.png', 'cd1978/entry/1978_Page_125 (2)_48.png', 'cd1978/entry/1978_Page_125 (2)_49.png', 'cd1978/entry/1978_Page_125 (2)_50.png']",N/A,"NEW ENGLAND TELEPHONE CO (Collection Office) Edwin Brown Manager, 1 Weyboeset Hill (02903) Tel 421-9919"
+457,FAILED TO PARSE AN ADDRESS,"['cd1978/entry/1978_Page_125 (2)_51.png', 'cd1978/entry/1978_Page_125 (2)_52.png']",N/A,New England Telephone Co (Bus Ofc) 77 Kennedy Plaza
+458,EMPTY STREET,"['cd1978/entry/1978_Page_125 (2)_61.png', 'cd1978/entry/1978_Page_125 (2)_62.png', 'cd1978/entry/1978_Page_125 (2)_63.png']",12 ,"W P RI TELEVISION CHANNEL 12 (ABC) 25 Catamore Blvd (East Providence, 02914), Tel 438-7200"
+459,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_126 (1)_4.png'],N/A,COMMONWEALTH LAND TITLE
+460,EMPTY STREET,['cd1978/entry/1978_Page_126 (1)_8.png'],,66 S MAIN ST (NEXT TO
+461,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_126 (1)_10.png', 'cd1978/entry/1978_Page_126 (1)_11.png', 'cd1978/entry/1978_Page_126 (1)_12.png']",02903),PROVIDENCE R I (02903) TELEPHONE 331-5331 (See Index To Advertisers)
+462,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_126 (2)_58.png'],N/A,Paragon Tours Howard Bldg
+463,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_126 (2)_80.png'],N/A,RHODE ISLAND
+464,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_126 (2)_83.png', 'cd1978/entry/1978_Page_126 (2)_84.png']",02903),1 HOSPITAL TRUST PLAZA (02903) TELEPHONE 278-8000
+465,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_126 (3)_3.png'],N/A,NATIONAL BANK—CONTD
+466,EMPTY STREET,['cd1978/entry/1978_Page_126 (3)_4.png'],,10 DORRANCE ST (02903)
+467,EMPTY STREET,['cd1978/entry/1978_Page_126 (3)_5.png'],,244 WEYBOSSET ST (02903)
+468,EMPTY STREET,['cd1978/entry/1978_Page_126 (3)_6.png'],,238 THAYER ST (02906)
+469,EMPTY STREET,['cd1978/entry/1978_Page_126 (3)_12.png'],,593 EDDY ST (02902)
+470,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_126 (3)_13.png'],N/A,PROVIDENCE COLLEGE OFFICE
+471,ERROR IN STREET MATCHING,['cd1978/entry/1978_Page_126 (3)_14.png'],02918),SLAVIN CENTER (02918)
+472,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_126 (3)_15.png'],N/A,(See Index To Advertisters)
+473,EMPTY STREET,['cd1978/entry/1978_Page_126 (3)_26.png'],,Associated Transport Inc Okie St
+474,FAILED TO PARSE AN ADDRESS,"['cd1978/entry/1978_Page_127 (1)_8.png', 'cd1978/entry/1978_Page_127 (1)_9.png']",N/A,RHODE ISLAND HOSPITAL TRUST
+475,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_127 (1)_11.png', 'cd1978/entry/1978_Page_127 (1)_12.png', 'cd1978/entry/1978_Page_127 (1)_13.png', 'cd1978/entry/1978_Page_127 (1)_14.png', 'cd1978/entry/1978_Page_127 (1)_15.png', 'cd1978/entry/1978_Page_127 (1)_16.png']",02903),1 HOSPITAL TRUST PLAZA (02903) TELEPHONE 278-8000 10 DORRANCE ST (02903) 244 WEYBOSSET ST (02903) 238 THAYER ST (02906) 1 OLNEYVILLE SQ (02909)
+476,EMPTY STREET,['cd1978/entry/1978_Page_127 (1)_17.png'],,434 SMITH ST (02908)
+477,EMPTY STREET,['cd1978/entry/1978_Page_127 (1)_18.png'],,501 NORTH MAIN ST (02904)
+478,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_127 (1)_19.png'],N/A,RHODE ISLAND HOSPITAL
+479,EMPTY STREET,['cd1978/entry/1978_Page_127 (1)_21.png'],,593 EDDY ST (02902)
+480,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_127 (1)_22.png'],N/A,PROVIDENCE COLLEGE OFFICE
+481,ERROR IN STREET MATCHING,"['cd1978/entry/1978_Page_127 (1)_23.png', 'cd1978/entry/1978_Page_127 (1)_24.png']",02918),SLAVIN CENTER (02918) (See Index To Advertisters)
+482,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_127 (2)_13.png'],N/A,NARRAGANSETT
+483,"SCORE LESS THAN CUTOFF: 7,50.0,PROVIDENCE","['cd1978/entry/1978_Page_127 (2)_16.png', 'cd1978/entry/1978_Page_127 (2)_17.png', 'cd1978/entry/1978_Page_127 (2)_18.png']",7TH ST,280 MELROSE STREET PROVIDENCE R I 02907 TELEPHONE 781-0100
+484,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_127 (3)_1.png'],N/A,it VENDING MACHINES
+485,EMPTY STREET,['cd1978/entry/1978_Page_127 (3)_41.png'],,Ace Warehouse Co Seaview Dr
+486,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_127 (3)_62.png'],N/A,
+487,EMPTY STREET,"['cd1978/entry/1978_Page_128 (2)_2.png', 'cd1978/entry/1978_Page_128 (2)_3.png', 'cd1978/entry/1978_Page_128 (2)_4.png']",,"CLAFLIN COMPANY THE | Acorn St (02903), Tel 421-5800 (See Index To Advertisers)"
+488,FAILED TO PARSE AN ADDRESS,['cd1978/entry/1978_Page_128 (3)_2.png'],N/A,
+489,"SCORE LESS THAN CUTOFF: Pomfret St,71.5,PROVIDENCE",['cd1978/entry/1978_Page_128 (3)_18.png'],SOMERSET ST,Paul’s Wood Processing Inc 1 Pomfret St
