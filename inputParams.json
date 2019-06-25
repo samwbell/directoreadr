@@ -1,0 +1,44 @@
+{
+  "year_folder": "cd1990",
+  "image_process": {
+    "single_image": false,
+    "img_name": "1976_page_100",
+    "ads": false,
+    "margins": false,
+    "columns": false,
+    "entries": false,
+    "parse": true
+    },
+  "no_ads": {
+    "do_multiprocessing": true,
+    "pool_num": 6,
+    "only_hardcoded": false,
+    "do_plots": false,
+    "do_diagnostics": true,
+    "perimeter_cutoff": 1000
+  },
+  "margins": {
+    "do_multiprocessing": true,
+    "pool_num": 6,
+    "p_cutoff": 30.0
+  },
+  "columns": {
+    "do_multiprocessing": false,
+    "pool_num": 6,
+    "do_plots": false
+  },
+  "entries": {
+    "do_multiprocessing": false,
+    "pool_num": 6,
+    "padding": 0
+  }, 
+  "parse": {
+    "do_multiprocessing": true,
+    "pool_num": 6,
+    "do_ocr": false,
+    "geocode": true,
+    "make_table": false,
+    "stringParse" : {
+    }
+  }
+}
