@@ -72,12 +72,6 @@ Once finished, you can deactivate your environment by typing: `deactivate`.
 
 Once the env_vars.sh script has been gotten, run it when you activate the environment. That should work at the moment. We are in the process of shifting to an open source geocoder which will change the install instructions. 
 
-#### Older instructions
-
-Within ~/anaconda3/envs/georeg/etc/conda/activate.d (might be anaconda2), create an env_vars.sh script that sets the passwords for the Brown ArcGIS geocoder.  You may have to ask for this file.
-
-Within ~/anaconda3/envs/georeg/etc/conda/deactivate.d (might be anaconda2), create an env_vars.sh script that unsets the passwords for the Brown ArcGIS geocoder.# georeg-pipeline
-
 ### Miscellaneous 
 
 You will need to produce a StreetZipCity.csv file for your area.  It can be missing the zipcode data, which are not necessary to the code.
@@ -106,5 +100,7 @@ In a new window, before you run the python code, do this:
 
 Use whatever path the first command resulted in. 
 
+## Data Location
+The links to the raw data are contained in the pvd_city_directory_links.xlsx file
 
 
